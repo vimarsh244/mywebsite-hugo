@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Vimarsh</title>
+    <link>http://example.org/categories/research/</link>
+    <description>Recent content in Research on Vimarsh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 15:10:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Future conflicts will be confined to online hacking</title>
+      <link>http://example.org/blog/future-conflicts-will-be-confined-to-online-hacking/</link>
+      <pubDate>Tue, 02 Feb 2021 15:10:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/future-conflicts-will-be-confined-to-online-hacking/</guid>
+      <description>Bots once built to brute force and gain access to accounts are now being used to create posts and comments on public forums and social media.
+Below is my speech I spoke on for English Speaking Skills test.
+We have all seen in movies, that a guy with a hood in a dark room, rummaging the keyboard, presses Enter and whole internet is down. He can then control and spy on people and much more.</description>
+    </item>
+    
+    <item>
+      <title>Homeopathy — Health or Hoax</title>
+      <link>http://example.org/blog/homeopathy-health-or-hoax/</link>
+      <pubDate>Mon, 25 Jan 2021 15:10:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/homeopathy-health-or-hoax/</guid>
+      <description>A scam that actually (kind of) works!
+Homeopathy — all of us might have heard about it. It is a very famous alternate form of allopathic (_normal _— as we define it) medication; in the same category as the like of Ayurveda. People mostly argue that it is “fake” and scientifically baseless, while there are some people who I personally know who praise its effectiveness and say it is very effective.</description>
+    </item>
+    
+    <item>
+      <title>Do Zoos help in Animal Conservation?</title>
+      <link>http://example.org/blog/do-zoos-help-in-animal-conservation/</link>
+      <pubDate>Tue, 12 Jan 2021 15:10:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/do-zoos-help-in-animal-conservation/</guid>
+      <description>Some of the world’s best zoos offer the visitors to see in front of their eyes animal species that might be impossible for them to see in the wild, ever**.** A zoo or Aquarium visit provides an opportunity to get mesmerized by the beautiful and diverse wildlife at one place.But there are many NGOs that are anti-zoo and believe in animal rights to live in open space like CAPS &amp;amp; PETA.</description>
+    </item>
+    
+    <item>
+      <title>My Old Blog Posts</title>
+      <link>http://example.org/blog/my-old-blog-posts/</link>
+      <pubDate>Fri, 01 May 2020 17:11:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/my-old-blog-posts/</guid>
+      <description>Before having this website, I used to blog and write articles on Blogger.com which can be found at oldblog.</description>
+    </item>
+    
+  </channel>
+</rss>

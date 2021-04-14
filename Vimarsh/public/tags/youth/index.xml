@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youth on Vimarsh</title>
+    <link>http://example.org/tags/youth/</link>
+    <description>Recent content in Youth on Vimarsh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2021 18:38:26 +0000</lastBuildDate><atom:link href="http://example.org/tags/youth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Youth and Essence of Individuality👦</title>
+      <link>http://example.org/blog/youth-and-essence-of-individuality/</link>
+      <pubDate>Fri, 19 Mar 2021 18:38:26 +0000</pubDate>
+      
+      <guid>http://example.org/blog/youth-and-essence-of-individuality/</guid>
+      <description>I have recently observed and felt that, we the children and Youth, in order to fit into a certain designed parameters often leave behind the essence of individuality. We often leave behind our unique characteristic which make us a different person and an “Individual”.
+Recently I have observed that, Groupism is at its peak especially among school cultures: say you don’t like a particular thing or do not have an interest in a matter / subject – you are left out.</description>
+    </item>
+    
+  </channel>
+</rss>

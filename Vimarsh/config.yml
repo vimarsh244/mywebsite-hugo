@@ -4,13 +4,109 @@ title: Vimarsh
 theme: "PaperMod"
 description: 'A 16 Y/o Maker &amp; Learner'
 
+
 params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Vimarsh
+    description: "A 16 Y/o Maker &amp; Learner"
+    keywords: [Blog, Learner, Maker, Tech]
+    author: Vimarsh
+    # author: ["Me", "You"] # multiple authors
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        disableFingerprinting: true
+        favicon: "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9ea2b423-9ca4-4984-a7d8-d59187dc5ccf%2Fprofile_(3).png?table=block&id=6302aa5a-e19a-4702-8592-b4e8469d2c15&cache=v2"
+        
+
+    # label:
+    #     text: "Home"
+    #     icon: /apple-touch-icon.png
+    #     iconHeight: 35
+
+    # profile-mode
+    # profileMode:
+    #     enabled: false # needs to be explicitly set
+    #     title: ExampleSite
+    #     subtitle: "This is subtitle"
+    #     imageUrl: "<img location>"
+    #     imageWidth: 120
+    #     imageHeight: 120
+    #     imageTitle: my image
+    #     buttons:
+    #         - name: Posts
+    #           url: posts
+    #         - name: Tags
+    #           url: tags
+
+    # home-info mode
     homeInfoParams:
         Title: Vimarsh
         Content: A 16 Y/o Maker &amp; Learner...
 
     socialIcons: # optional
-        - name: "Github"
-            url: "https://github.com/vimarsh244"
-        - name: "Twitter"
-            url: "https://twitter.com/vimarsh244"
+        - name: github
+          url: "https://github.com/vimarsh244"
+        - name: twitter
+          url: "https://twitter.com/vimarsh244"
+
+    ShowPostNavLinks: true
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+    #     bing:
+    #         SiteVerificationTag: "XYZabc"
+    #     yandex:
+    #         SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    #editPost:
+    #    URL: "https://github.com/<path_to_repo>/content"
+    #    Text: "Suggest Changes" # edit text
+    #    appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: example
+          name: example.org
+          url: https://example.org
+          weight: 30

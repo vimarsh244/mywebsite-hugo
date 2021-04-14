@@ -1,7 +1,6 @@
 ---
 title: Future conflicts will be confined to online hacking
 author: Vimarsh
-type: post
 date: 2021-02-02T15:10:00+00:00
 url: /blog/future-conflicts-will-be-confined-to-online-hacking/
 featured_image: /wp-content/uploads/2021/02/1Tums41FARnW23dtyXsi86w.jpg

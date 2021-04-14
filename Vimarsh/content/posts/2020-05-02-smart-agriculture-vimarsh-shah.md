@@ -1,7 +1,6 @@
 ---
 title: Smart Agriculture
 author: Vimarsh
-type: post
 date: 2020-05-02T03:10:00+00:00
 url: /blog/smart-agriculture-vimarsh-shah/
 featured_image: /wp-content/uploads/2021/02/00tZ1vAm8Hr6X8SLp.jpg

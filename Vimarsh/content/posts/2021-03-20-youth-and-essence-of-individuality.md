@@ -1,7 +1,6 @@
 ---
 title: Youth and Essence of Individuality👦
 author: Vimarsh
-type: post
 date: 2021-03-19T18:38:26+00:00
 excerpt: "Today’s generation, in order to fit into certain designed parameters is leaving behind their essence of individuality. Is individuality lost under influence and inaction? How does Groupism affect us? This is my opinion on today's youth's mindset, interests and individuality."
 url: /blog/youth-and-essence-of-individuality/

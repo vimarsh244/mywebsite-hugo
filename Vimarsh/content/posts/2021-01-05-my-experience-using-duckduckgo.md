@@ -1,7 +1,6 @@
 ---
 title: My Experience using DuckDuckGo
 author: Vimarsh
-type: post
 date: 2021-01-05T15:10:00+00:00
 url: /blog/my-experience-using-duckduckgo/
 featured_image: /wp-content/uploads/2021/02/0MIzKK0NwLK9axNU3.jpg

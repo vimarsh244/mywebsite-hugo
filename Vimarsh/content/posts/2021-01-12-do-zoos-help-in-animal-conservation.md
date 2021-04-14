@@ -1,7 +1,6 @@
 ---
 title: Do Zoos help in Animal Conservation?
 author: Vimarsh
-type: post
 date: 2021-01-12T15:10:00+00:00
 url: /blog/do-zoos-help-in-animal-conservation/
 featured_image: /wp-content/uploads/2021/02/0KELFPaSwHKxY1YMH.jpg

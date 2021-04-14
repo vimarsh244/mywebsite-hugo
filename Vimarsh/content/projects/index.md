@@ -3,7 +3,7 @@ title: Projects
 author: Vimarsh
 type: page
 date: 2021-03-02T07:31:48+00:00
-featured_image: /wp-content/uploads/2021/03/projects-center-image.png
+featured_image: /content/posts/wp-content/uploads/2021/03/projects-center-image.png
 rank_math_seo_score:
   - 79
 rank_math_internal_links_processed:
@@ -20,6 +20,7 @@ rank_math_focus_keyword:
 ---
 ### This is a list of some projects I have made
 
+![Example image](/content/posts/wp-content/uploads/2021/03/projects-center-image.png)
 **Monitoring Industries Using IOT** || The project aims to monitor the factories and getting the information on your smartphone or other devices using IOT. <a href="https://www.hackster.io/vimarsh/monitoring-industries-using-iot-ddc208" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Link</a>
 
 <a aria-label=" (opens in a new tab)" rel="noreferrer noopener" href="https://www.notion.so/Monitoring-Industries-Using-IoT-b73ba1ccb8c047eb9552747912d1f0fa" target="_blank" class="rank-math-link">Monitoring Industries Using IoT</a>

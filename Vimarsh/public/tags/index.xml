@@ -5,6 +5,106 @@
     <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Vimarsh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Apr 2021 19:36:04 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deceit</title>
+      <link>http://example.org/tags/deceit/</link>
+      <pubDate>Sat, 10 Apr 2021 19:36:04 +0000</pubDate>
+      
+      <guid>http://example.org/tags/deceit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phiosophy</title>
+      <link>http://example.org/tags/phiosophy/</link>
+      <pubDate>Sat, 10 Apr 2021 19:36:04 +0000</pubDate>
+      
+      <guid>http://example.org/tags/phiosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>http://example.org/tags/thoughts/</link>
+      <pubDate>Sat, 10 Apr 2021 19:36:04 +0000</pubDate>
+      
+      <guid>http://example.org/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>http://example.org/tags/opinion/</link>
+      <pubDate>Mon, 29 Mar 2021 15:52:01 +0000</pubDate>
+      
+      <guid>http://example.org/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>http://example.org/tags/philosophy/</link>
+      <pubDate>Mon, 29 Mar 2021 15:52:01 +0000</pubDate>
+      
+      <guid>http://example.org/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essence of being Youself</title>
+      <link>http://example.org/tags/essence-of-being-youself/</link>
+      <pubDate>Fri, 19 Mar 2021 18:38:26 +0000</pubDate>
+      
+      <guid>http://example.org/tags/essence-of-being-youself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualism</title>
+      <link>http://example.org/tags/individualism/</link>
+      <pubDate>Fri, 19 Mar 2021 18:38:26 +0000</pubDate>
+      
+      <guid>http://example.org/tags/individualism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth</title>
+      <link>http://example.org/tags/youth/</link>
+      <pubDate>Fri, 19 Mar 2021 18:38:26 +0000</pubDate>
+      
+      <guid>http://example.org/tags/youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>article</title>
+      <link>http://example.org/tags/article/</link>
+      <pubDate>Thu, 18 Feb 2021 05:08:11 +0000</pubDate>
+      
+      <guid>http://example.org/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>farmer protests</title>
+      <link>http://example.org/tags/farmer-protests/</link>
+      <pubDate>Thu, 18 Feb 2021 05:08:11 +0000</pubDate>
+      
+      <guid>http://example.org/tags/farmer-protests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indian Farmer Protests 2020</title>
+      <link>http://example.org/tags/indian-farmer-protests-2020/</link>
+      <pubDate>Thu, 18 Feb 2021 05:08:11 +0000</pubDate>
+      
+      <guid>http://example.org/tags/indian-farmer-protests-2020/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
