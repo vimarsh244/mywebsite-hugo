@@ -70,7 +70,7 @@ Some people would just want to live their lives. Whereas, others will want to le
 I would personally enjoy such distant utopia; where I can work on and do things I truly care about. Like, knowing about our past, and gaining as much wisdom and knowledge as I can. That would bring happiness to me. I would also like to work on space exploration🚀🌕🌑 like many would.  
 I still do wonder about the purpose of human life; so understanding ancient texts 📚, people&#8217;s opinions💭 and gaining knowledge✨ will help me do that. 
 
-[![Skyline of a futuristic City](/images/Skyline-of-a-futuristic-city-by-Martin-Adams-from-Unsplash.jpg)]
+![Skyline of a futuristic City](/Skyline-of-a-futuristic-city-by-Martin-Adams-from-Unsplash.jpg)
 
 >You all must think: what will be the purpose and meaning of life for you, if Robots do all the boring work you are doing right now?
 
