@@ -1,0 +1,16 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Vimarsh
+theme: "PaperMod"
+description: 'A 16 Y/o Maker &amp; Learner'
+
+params:
+    homeInfoParams:
+        Title: Vimarsh
+        Content: A 16 Y/o Maker &amp; Learner...
+
+    socialIcons: # optional
+        - name: "Github"
+            url: "https://github.com/vimarsh244"
+        - name: "Twitter"
+            url: "https://twitter.com/vimarsh244"
