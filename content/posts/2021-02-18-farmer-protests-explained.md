@@ -117,9 +117,9 @@ Farmers have definitely become a little comfortable with getting this income (wh
 But farmers are also humans, and they also feel weird and left out on why they should innovate without any need to.
 
 The problem is that government with the introduction of private players wants that there should be more competition between startups and OG players in the market, giving farmers really good profits, and also stifle innovation as new sub-industries (like IoT startups) will flourish.  
-But, the real problem is: with the vast nature of India, these private corporations might just have internal deals and agreements making them not compete as they should in particular states/districts. Making only one buyer available to the farmers. And without any APMCs (Mandis) left \[Remember the systemic breakdown of these mandis\], they are definitely at a loss. ![😭](https://s.w.org/images/core/emoji/13.0.1/svg/1f62d.svg)
+But, the real problem is: with the vast nature of India, these private corporations might just have internal deals and agreements making them not compete as they should in particular states/districts. Making only one buyer available to the farmers. And without any APMCs (Mandis) left \[Remember the systemic breakdown of these mandis\], they are definitely at a loss.
 
-I will also be not commenting on any violence that took place in the most peaceful protest because both the parties mishandled it terribly, especially on republic day ![🇮🇳](https://s.w.org/images/core/emoji/13.0.1/svg/1f1ee-1f1f3.svg) and subsequently government’s suppressive methods. I hate Internet bans and attempts to stop communication.
+I will also be not commenting on any violence that took place in the most peaceful protest because both the parties mishandled it terribly, especially on republic day and subsequently the government’s suppressive methods. I hate Internet bans and attempts to stop communication.
 
 Also, convectional Indian media outlets need to improve.
 
