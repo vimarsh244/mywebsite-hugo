@@ -4,6 +4,7 @@ title: Vimarsh
 theme: "PaperMod"
 description: 'A 16 Y/o Maker &amp; Learner'
 
+metaDataFormat: "yaml"
 
 
 params:
