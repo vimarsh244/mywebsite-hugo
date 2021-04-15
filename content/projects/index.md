@@ -16,8 +16,6 @@ tags:
 ---
 ### This is a list of some projects I have made
 
-### This is a list of some projects I have made
-
 **Monitoring Industries Using IOT** || The project aims to monitor the factories and getting the information on your smartphone or other devices using IOT. [Link](https://www.hackster.io/vimarsh/monitoring-industries-using-iot-ddc208)
 
 [Monitoring Industries Using IoT](https://www.notion.so/Monitoring-Industries-Using-IoT-b73ba1ccb8c047eb9552747912d1f0fa)
@@ -108,5 +106,4 @@ All original projects are removed on GSF website – so here is the writeup
 
 More info here: [https://onnotion.serv.vimarsh.info](https://backup.vimarsh.info/my-projects "https://backup.vimarsh.info")
 
-  
 ![](/uploads/projects-center-image.png)
