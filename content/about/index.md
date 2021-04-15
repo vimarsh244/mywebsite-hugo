@@ -11,3 +11,5 @@ tags:
 I am a 16-year-old electronics enthusiast from Ahmedabad, India. My goal is to create technology that aims toward sustainability.
 
 I am fascinated by technology and love finding ways in which it can benefit society. I am fond of Indian Mythology and love helping society.
+
+![](/uploads/profilepic.png)
