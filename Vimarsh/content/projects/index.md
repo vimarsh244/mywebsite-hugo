@@ -4,23 +4,18 @@ author: Vimarsh
 type: page
 date: 2021-03-02T07:31:48+00:00
 featured_image: /wp-content/uploads/2021/03/projects-center-image.png
-rank_math_seo_score:
-  - 79
-rank_math_internal_links_processed:
-  - 1
-rank_math_description:
-  - I love applying my skills to make projects which address a particular issue in various industries. This is a list of some of the projects I have made.
-rank_math_pillar_content:
-  - on
-rank_math_focus_keyword:
+
+description:
+  - I love applying my skills to make projects which address a particular issue in various industries. 
+tags:
   - projects,iot,Artificial Intelligence
 
 ---
 ### This is a list of some projects I have made
 
-**Monitoring Industries Using IOT** || The project aims to monitor the factories and getting the information on your smartphone or other devices using IOT. <a href="https://www.hackster.io/vimarsh/monitoring-industries-using-iot-ddc208" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Link</a>
+**Monitoring Industries Using IOT** || The project aims to monitor the factories and getting the information on your smartphone or other devices using IOT. [Link](https://www.hackster.io/vimarsh/monitoring-industries-using-iot-ddc208)
 
-<a aria-label=" (opens in a new tab)" rel="noreferrer noopener" href="https://www.notion.so/Monitoring-Industries-Using-IoT-b73ba1ccb8c047eb9552747912d1f0fa" target="_blank" class="rank-math-link">Monitoring Industries Using IoT</a>
+[Monitoring Industries Using IoT](https://www.notion.so/Monitoring-Industries-Using-IoT-b73ba1ccb8c047eb9552747912d1f0fa)
 
 **Smart Agriculture: Plant Watering and Field Monitoring System** || Smart Agriculture is a project to make farming and gardening more smart and effective. <a href="https://makerfaire.com/maker/entry/69304/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Link</a>
 
