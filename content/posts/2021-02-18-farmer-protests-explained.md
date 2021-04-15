@@ -112,11 +112,11 @@ This to me is the most concerning bit as even foreign entities registered as Ind
 
 I believe that none of them is fully correct. Government is correct in its way that deregulating the market will perhaps help in growth. But there are several loopholes in the new laws that the private sector can easily exploit and they need to be fixed.
 
-Farmers have definitely become a little comfortable with getting this income (which is particularly high for wheat / paddy as they are being exported). This has lead to a steady stall of innovation in the agro-sector. Along with many ecological issues; like those, I mentioned earlier; we definitely need stiff competition and innovation in the sector to remain competitive on a global scale or we will be left behind and this is probably the goal of these new laws, who knows![🤷](https://s.w.org/images/core/emoji/13.0.1/svg/1f937.svg).
+Farmers have definitely become a little comfortable with getting this income (which is particularly high for wheat/paddy as they are being exported). This has lead to a steady stall of innovation in the agro-sector. Along with many ecological issues; like those, I mentioned earlier; we definitely need stiff competition and innovation in the sector to remain competitive on a global scale or we will be left behind and this is probably the goal of these new laws, who knows.
 
 But farmers are also humans, and they also feel weird and left out on why they should innovate without any need to.
 
-The problem is that government with the introduction of private players wants that there should be more competition between startups and OG players in the market, giving farmers really good profits, and also stifle innovation as new sub-industries (like IoT startups) will flourish.  
+The problem is that the government with the introduction of private players wants that there should be more competition between startups and OG players in the market, giving farmers really good profits, and also stifle innovation as new sub-industries (like IoT startups) will flourish.  
 But, the real problem is: with the vast nature of India, these private corporations might just have internal deals and agreements making them not compete as they should in particular states/districts. Making only one buyer available to the farmers. And without any APMCs (Mandis) left \[Remember the systemic breakdown of these mandis\], they are definitely at a loss.
 
 I will also be not commenting on any violence that took place in the most peaceful protest because both the parties mishandled it terribly, especially on republic day and subsequently the government’s suppressive methods. I hate Internet bans and attempts to stop communication.
@@ -127,7 +127,7 @@ Also, convectional Indian media outlets need to improve.
 
 People might argue that in China the deregulation resulted in growth. But the thing is it had control over those other buyers directly or indirectly. Which we probably are missing.
 
-We can also argue about how privatisation of dairy or cellular (not considering 2G![😜](https://s.w.org/images/core/emoji/13.0.1/svg/1f61c.svg)) has highly benefited both the end consumers and the suppliers.
+We can also argue about how privatisation of dairy or cellular (not considering 2G😆) has highly benefited both the end consumers and the suppliers.
 
 But if we look at a past example like Sugarcane plantations. India’s sugarcane industry was declining in the 1990s, so govt. allowed private establishments in the hope to increase exports and make crops that much better to sustain weather. We find that even though the production was up by tiny bit, the overall productivity has not changed nor has farmers’ income. Which is concerning.
 
