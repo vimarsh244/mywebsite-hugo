@@ -1,7 +1,6 @@
 ---
 title: How to host a WordPress website on a VM simply
 author: Vimarsh
-type: post
 date: 2020-11-27T15:10:00+00:00
 url: /blog/how-to-host-a-wordpress-website-on-a-vm-simply/
 rank_math_internal_links_processed:

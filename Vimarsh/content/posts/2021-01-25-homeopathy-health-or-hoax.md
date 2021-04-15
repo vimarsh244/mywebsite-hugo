@@ -1,7 +1,6 @@
 ---
 title: Homeopathy — Health or Hoax
 author: Vimarsh
-type: post
 date: 2021-01-25T15:10:00+00:00
 url: /blog/homeopathy-health-or-hoax/
 featured_image: /wp-content/uploads/2021/02/img_6022bba4da9c2.jpg

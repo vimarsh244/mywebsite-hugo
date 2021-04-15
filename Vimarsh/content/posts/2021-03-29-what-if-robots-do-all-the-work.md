@@ -1,7 +1,6 @@
 ---
 title: What if robots do all the work? – Finding Meaning in Life
 author: Vimarsh
-type: post
 date: 2021-03-29T15:52:01+00:00
 url: /blog/what-if-robots-do-all-the-work/
 featured_image: /wp-content/uploads/2021/03/A-Beautiful-Beach-Picture-by-Zac-Durant-from-Unsplash.jpg

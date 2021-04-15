@@ -1,7 +1,6 @@
 ---
 title: Farmer Protests Explained – The promise to increase revenue by 200%
 author: Vimarsh
-type: post
 date: 2021-02-18T05:08:11+00:00
 excerpt: Why is the reason behind Farmer Protests? This is my quest, trying to understand the Farm Laws and correlate it with the protests, which have been going on since November 2020. This is my journey to understand it and my opinion on what actually should be done.
 url: /blog/farmer-protests-explained/

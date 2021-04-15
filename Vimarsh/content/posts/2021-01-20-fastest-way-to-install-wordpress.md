@@ -1,7 +1,6 @@
 ---
 title: Fastest way to install WordPress
 author: Vimarsh
-type: post
 date: 2021-01-20T15:10:00+00:00
 url: /blog/fastest-way-to-install-wordpress/
 featured_image: /wp-content/uploads/2021/02/1_1hLHDT7VkTYf0vWKdQhvcHA.png

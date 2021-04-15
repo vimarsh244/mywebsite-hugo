@@ -1,7 +1,6 @@
 ---
 title: Smart Agriculture
 author: Vimarsh
-type: post
 date: 2020-05-02T03:10:00+00:00
 url: /blog/smart-agriculture-vimarsh-shah/
 featured_image: /wp-content/uploads/2021/02/00tZ1vAm8Hr6X8SLp.jpg
@@ -30,8 +29,4 @@ In agriculture fields, lack of proper monitoring results in low yields and unpre
 
 This solution uses machine learning algorithms, camera and 7 different sensors to monitor the fields, automate the watering of plants and detect 19 different types of crop diseases.
 
-Along with that it uses historical data like irrigation, which crop is planted,etc to predict which crop is most suitable for the agricultural field<figure class="wp-block-image">
-
-![][1] </figure>
-
- [1]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bc0f1119e.gif
+Along with that it uses historical data like irrigation, which crop is planted,etc to predict which crop is most suitable for the agricultural field

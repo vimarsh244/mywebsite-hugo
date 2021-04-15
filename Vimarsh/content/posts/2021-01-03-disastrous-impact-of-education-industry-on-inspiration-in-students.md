@@ -1,7 +1,6 @@
 ---
 title: Disastrous impact of Education Industry on Inspiration in Students
 author: Vimarsh
-type: post
 date: 2021-01-03T15:10:00+00:00
 url: /blog/disastrous-impact-of-education-industry-on-inspiration-in-students/
 featured_image: /wp-content/uploads/2021/02/0SjK_mPtMoRFl3ZUj.jpg
