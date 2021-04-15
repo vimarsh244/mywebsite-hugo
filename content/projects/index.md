@@ -3,10 +3,9 @@ title: Projects
 author: Vimarsh
 type: page
 date: 2021-03-02T07:31:48.000+00:00
-featured_image: "/wp-content/uploads/2021/03/projects-center-image.png"
-description:
-- I love applying my skills to make projects which address a particular issue in various
-  industries.
+images:
+  - "/wp-content/uploads/2021/03/projects-center-image.png"
+excerpt: I love applying my skills to make projects which address a particular issue in various industries.
 tags:
 - projects
 - iot
