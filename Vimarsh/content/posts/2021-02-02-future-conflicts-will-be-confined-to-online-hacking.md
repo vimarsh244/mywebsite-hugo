@@ -5,14 +5,16 @@ date: 2021-02-02T15:10:00+00:00
 url: /blog/future-conflicts-will-be-confined-to-online-hacking/
 images: 
   - /wp-content/uploads/2021/02/1Tums41FARnW23dtyXsi86w.jpg
-rank_math_internal_links_processed:
-  - 1
+
+description: 
+  Bots once built to brute force and gain access to accounts are now being used to create posts and comments on public forums and social media.
+  Are we in a cyber warfare without even realizing it?
 categories:
   - Opinion
   - Research
+  - Tech
 
 ---
- 
 
 Bots once built to brute force and gain access to accounts are now being used to create posts and comments on public forums and social&nbsp;media.
 
@@ -25,6 +27,7 @@ Is this all even realistic and possible? Are we in a new war where 1s and 0s are
 Are we in a cyber warfare without even realizing it?
 
 Actually, we might just (partially) be in&nbsp;one.
+![Computer screen showing some code](/wp-content/uploads/2021/02/1Tums41FARnW23dtyXsi86w.jpg)
 
 When people think about hacking, they think about filibustering some secret information, or accessing government secrets, spying on people, etc. But the true power of hacking is in the control of people’s mind and thoughts.
 
@@ -40,8 +43,4 @@ But these bots once built to brute force and gain access to accounts are now bei
 
 Hence, it is safe to say that wars in future will be fought out of plain sight from anywhere anytime across the globe. Misinformation, malicious code, and exploiting of use of social media for national communication will be the battlegrounds of the future, resulting in massive conflicts of interest and stroke to fundamentals of democracy in many countries.
 
-And if we are already at war, then when should we start reckoning the first explosions.<figure class="wp-block-image">
-
-![][1] </figure>
-
- [1]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbb90f0aa.gif
+And if we are already at war, then when should we start reckoning the first explosions.

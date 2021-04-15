@@ -66,6 +66,10 @@ params:
           url: "https://github.com/vimarsh244"
         - name: twitter
           url: "https://twitter.com/vimarsh244"
+        - name: email
+          url: "mailto:hi@vimarsh.info"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/vimarshshah/"
 
     ShowPostNavLinks: true
     # analytics:

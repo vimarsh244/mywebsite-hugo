@@ -3,28 +3,24 @@ title: How to host a WordPress website on a VM simply
 author: Vimarsh
 date: 2020-11-27T15:10:00+00:00
 url: /blog/how-to-host-a-wordpress-website-on-a-vm-simply/
-rank_math_internal_links_processed:
-  - 1
+description: 
+  The Fastest way to host a Wordpress website with databse and all dependencies using docker on any Linux VM.
 categories:
   - Tutorial
+  - Tech
 
 ---
- 
 
-  * Create a Ubunutu 20.04&nbsp;VM
-  * Run the following commands via&nbsp;SSH<figure class="wp-block-image">
+* Create a Ubunutu 20.04&nbsp;VM
+* Run the following commands via SSH
 
-![][1] </figure> 
-
-<pre class="wp-block-code"><code>sudo apt-get update && sudo apt-get upgrade -y
+```
+sudo apt-get update && sudo apt-get upgrade -y
 
 wget -qO ee rt.cx/ee4 && sudo bash ee
 
 sudo ee site create website.com –type=wp –admin-user=admin –admin-pass=password
 
-sudo ee site update website.com –ssl=le
-//for SSL
+sudo ee site update website.com –ssl=le  //for SSL
 
-</code></pre>
-
- [1]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bb96ed1a7.gif
+```

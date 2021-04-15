@@ -4,21 +4,12 @@ author: Vimarsh
 date: 2021-02-18T05:08:11+00:00
 excerpt: Why is the reason behind Farmer Protests? This is my quest, trying to understand the Farm Laws and correlate it with the protests, which have been going on since November 2020. This is my journey to understand it and my opinion on what actually should be done.
 url: /blog/farmer-protests-explained/
-featured_image: /wp-content/uploads/2021/02/farmer-wheat-crop-2260636.jpg
-rank_math_seo_score:
-  - 86
-rank_math_internal_links_processed:
-  - 1
-rank_math_pillar_content:
-  - off
-rank_math_facebook_enable_image_overlay:
-  - off
-rank_math_facebook_image_overlay:
-  - play
-rank_math_description:
-  - What is the reason behind the Farmer Protests? This is my quest, trying to understand the Farm Laws and correlate it with the protests, which have been going on since November 2020. This is my journey to understand it and my opinion on what actually should be done.
-rank_math_focus_keyword:
-  - farmer protests,farmer protests in india explained,india farmer protests explained,farmer protests explained,farmer protests 2020
+images:
+  - /wp-content/uploads/2021/02/farmer-wheat-crop-2260636.jpg
+
+description:
+  What is the reason behind the Farmer Protests? This is my quest, trying to understand the Farm Laws and correlate it with the protests, which have been going on since November 2020. This is my journey to understand it and my opinion on what actually should be done.
+
 categories:
   - Article
   - Opinion
@@ -31,9 +22,9 @@ tags:
 ---
  
 
-The new farm laws promise to [**2x** _<sup><span class="has-inline-color has-vivid-red-color">yes you read that correctly</span></sup>_ the income][1]{.rank-math-link} of farmers in the next 2 years by relying on the deregulation of the market. But most analysts and critics say this might not work and, in fact, the income of small to medium farmers (comprising 80% of the farmers) might reduce by [upto 40%][2]{.rank-math-link}. Which is a substantial hit.
+The new farm laws promise to [**2x** _<sup><span class="has-inline-color has-vivid-red-color">yes you read that correctly</span></sup>_ the income][1] of farmers in the next 2 years by relying on the deregulation of the market. But most analysts and critics say this might not work and, in fact, the income of small to medium farmers (comprising 80% of the farmers) might reduce by [upto 40%][2]. Which is a substantial hit.
 
-If you want to directly understand the problems [click here][3]{.rank-math-link}  
+If you want to directly understand the problems [click here][3]
 TLDR; The farmers&#8217; concerns are genuine and India needs much more.
 
 As you might know, Farmers are protesting in India near the capital of Delhi, since last November. Being totally confused by all the mainstream news, I tried to dive into the topic and understand the actual whole issue.

@@ -3,17 +3,17 @@ title: Disastrous impact of Education Industry on Inspiration in Students
 author: Vimarsh
 date: 2021-01-03T15:10:00+00:00
 url: /blog/disastrous-impact-of-education-industry-on-inspiration-in-students/
-featured_image: /wp-content/uploads/2021/02/0SjK_mPtMoRFl3ZUj.jpg
-rank_math_internal_links_processed:
-  - 1
+images: 
+  - /wp-content/uploads/2021/02/0SjK_mPtMoRFl3ZUj.jpg
+description:
+  I went to random word generator websote and got this topic. In India, and globally there is a trend hat is impacting the inspiration to do new things in children. Why? and how does it impact us?
 categories:
   - Article
   - Opinion
 
 ---
-I went to [Random Word Generator][1] and got these&nbsp;words<figure class="wp-block-image">
-
-![][2] </figure> 
+I went to [Random Word Generator](https://randomwordgenerator.com/) and got these words: 
+![](/wp-content/uploads/2021/02/img_6022bc030ce0c.jpg)
 
 The topic I came up with&nbsp;: _Disastrous impact of education Industry on Inspiration of&nbsp;students_
 
@@ -21,11 +21,7 @@ The topic I came up with&nbsp;: _Disastrous impact of education Industry on Insp
 
 anything that drives one to do, create, endeavor, begin or develop some pursuit, skill, art or start with a fire or do something _creative_
 
-<blockquote class="wp-block-quote">
-  <p>
-    <em>This might just be me living in India complaining about the current Education System</em>
-  </p>
-</blockquote>
+> This might just be me living in India complaining about the current Education System
 
 ### How is the Modern Education Industry impacting it?
 
@@ -41,11 +37,7 @@ There should be more application-based learning. Rather than just learn the conc
 
 ### What I think should be&nbsp;done
 
-<blockquote class="wp-block-quote">
-  <p>
-    <em>This is also more of what I think should be done from class 9/10&nbsp;onwards</em>
-  </p>
-</blockquote>
+> This is also more of what I think should be done from class 9/10&nbsp;onwards
 
 The curriculum that is taught should be more focused. Rather than bombarding students with all the concepts, they should have the option to focus on just one subtopic for an entire year. (Example — Instead of learning everything in Maths in Class 11 and 12 there should be an option to just learn Geometry the entire year and be thorough in&nbsp;it)
 
@@ -61,15 +53,6 @@ The Education Industry does hamper students’ creativity. With a lot of syllabu
 
 He/She doesn’t hence feel the need to do further research and enjoy the learning process, but rather score&nbsp;marks.
 
-This makes it very difficult to get that inspiration to learn anything, and if learning is boring then a hobby, writing stories/poems, a new project, or a podcast is just too **non-fulfilling** for&nbsp;them.<figure class="wp-block-image">
+This makes it very difficult to get that inspiration to learn anything, and if learning is boring then a hobby, writing stories/poems, a new project, or a podcast is just too **non-fulfilling** for&nbsp;them.
 
-![][3] </figure> 
-
-_Originally published on January 3,&nbsp;2021._<figure class="wp-block-image">
-
-![][4] </figure>
-
- [1]: https://randomwordgenerator.com/
- [2]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bc030ce0c.jpg
- [3]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bc037f633.jpg
- [4]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bc043ef82.gif
+![Image of a beautiful library](/wp-content/uploads/2021/02/img_6022bc037f633.jpg)
