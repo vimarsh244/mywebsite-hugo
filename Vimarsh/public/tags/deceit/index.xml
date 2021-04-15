@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deceit on Vimarsh</title>
-    <link>http://example.org/tags/deceit/</link>
+    <link>http://vimarsh.info/tags/deceit/</link>
     <description>Recent content in deceit on Vimarsh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Apr 2021 19:36:04 +0000</lastBuildDate><atom:link href="http://example.org/tags/deceit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 19:36:04 +0000</lastBuildDate><atom:link href="http://vimarsh.info/tags/deceit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deceit – Why there is a 99% chance that you are deceitful.</title>
-      <link>http://example.org/blog/deceit/</link>
+      <link>http://vimarsh.info/blog/deceit/</link>
       <pubDate>Sat, 10 Apr 2021 19:36:04 +0000</pubDate>
       
-      <guid>http://example.org/blog/deceit/</guid>
-      <description>What is Deceit? WikipediaMost people expect their conversations with their close friends, family members and other strangers to be frank and honest. We feel like we are entitled to know about everything, even minute details. This enables there to trust in the other one you are talking to. But, even though we think we are being honest with a person or that person is being extremely sincere with you; it might not be the case.</description>
+      <guid>http://vimarsh.info/blog/deceit/</guid>
+      <description>What is Deceit?  Deception or falsehood is an act or statement which misleads, hides the truth, or promotes a belief, concept, or idea that is not true. It is often done for personal gain or advantage. - Wikipedia
+ Most people expect their conversations with their close friends, family members and other strangers to be frank and honest. We feel like we are entitled to know about everything, even minute details.</description>
     </item>
     
   </channel>
