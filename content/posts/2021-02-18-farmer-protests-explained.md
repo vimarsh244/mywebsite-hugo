@@ -70,9 +70,9 @@ This is what the Indian Government intends to with these new laws or making us t
 
 ### How big is the Problem?
 
-![](/uploads/screenshot-2021-04-15-180123.png)
+![Image showing how small sized farmers who make up more % have less produce and earnings](/uploads/screenshot-2021-04-15-180123.png)
 
-![](/uploads/screenshot-2021-04-15-180248.png)
+![Image showing how small v/s large farmers' dependency on different sources of income](/uploads/screenshot-2021-04-15-180248.png)
 
 In the above charts, we see that small farmers, who are in a larger proportion, have a very little output. This gives them little bargaining power and hence [lower prices](http://farmer.gov.in/imagedefault/DFI/DFI%20Volume%201.pdf) compared to bigger agriculturists. Thus, the annual income of farmers with huge land holding grew astronomically.
 
@@ -131,7 +131,6 @@ We can also argue about how privatisation of dairy or cellular (not considering 
 
 But if we look at a past example like Sugarcane plantations. India’s sugarcane industry was declining in the 1990s, so govt. allowed private establishments in the hope to increase exports and make crops that much better to sustain weather. We find that even though the production was up by tiny bit, the overall productivity has not changed nor has farmers’ income. Which is concerning.
 
-  
 [Checkout the pictograph here](https://infogram.com/sugarcane-production-up-but-productivity-stagnant-1h7v4pwngpmkj6k)
 
 [PDF for a study](https://d1ns4ht6ytuzzo.cloudfront.net/oxfamdata/oxfamdatapublic/2018-11/HUMAN%20COST%20OF%20SUGAR-A%20FARM%20TO%20MILLS%20ASSESSSMENT%20OF%20THE%20SUGAR%20VALUE%20CHAIN%20IN%20U.P.%202_0.pdf)
