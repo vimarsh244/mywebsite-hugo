@@ -34,7 +34,7 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         disableFingerprinting: true
-        favicon: "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9ea2b423-9ca4-4984-a7d8-d59187dc5ccf%2Fprofile_(3).png?table=block&id=6302aa5a-e19a-4702-8592-b4e8469d2c15&cache=v2"
+        favicon: "https://mywebsite-hugo.vercel.app/uploads/profilepic.png"
         
 
     # label:
@@ -60,7 +60,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: Vimarsh
-        Content: A 16 Y/o Maker &amp; Learner...
+        Content: A 16 Y/o Maker & Learner from India.
 
     socialIcons: # optional
         - name: github
@@ -104,15 +104,19 @@ params:
 
 menu:
     main:
+        - identifier: about
+          name: About Me
+          url: /about/
+          weight: 20
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 20
         - identifier: categories
-          name: categories
+          name: Categories
           url: /categories/
           weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
-          weight: 30
+        - identifier: privacy
+          name: Privacy
+          url: /privacy/
+          weight: 10

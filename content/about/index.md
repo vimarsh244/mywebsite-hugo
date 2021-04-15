@@ -4,8 +4,10 @@ author: Vimarsh
 type: page
 date: 2021-02-09T17:17:25.000+00:00
 tags:
-- about me
-- vimarsh
+    - about me
+    - vimarsh
+images:
+    - /uploads/profilepic.png
 
 ---
 I am a 16-year-old electronics enthusiast from Ahmedabad, India. My goal is to create technology that aims toward sustainability.
