@@ -117,7 +117,7 @@ menu:
           url: /projects/
           weight: 2
         - identifier: search
-          name: Search
+          name: 🔍
           url: /search/
           weight: 7
         - identifier: archive
