@@ -1,0 +1,31 @@
+---
+label: sample blog
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: text
+  name: url
+  label: url
+- type: image_gallery
+  name: images
+  label: images
+- type: textarea
+  name: description
+  label: description
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
