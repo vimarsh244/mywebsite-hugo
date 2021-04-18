@@ -18,3 +18,7 @@ tags:
 draft: true
 
 ---
+
+India is a country where cash circulation ammounts to whopping 5 lac crore rupees. With technologies like UPI and the tech boom, digital payments are on a stark rise. 
+
+The total global market cap in the world for cryptocurrencies is cuyrrently 2 trillion USD, two-thirds of India's annual GDP
