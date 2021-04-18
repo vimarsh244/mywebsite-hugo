@@ -7,7 +7,8 @@ excerpt: Amid central government's plans to ban cryptocurrencies, there arrises 
 url: "/blog/why-india-needs-its-own-cryptocurrency"
 images:
 - "/uploads/rupixen-com-9xjixhkg-fo-unsplash.jpg"
-description: ''
+description: Amid central government's plans to ban cryptocurrencies, there arrises
+  a really compelling reason on why India needs its own digital "rupee"
 categories:
 - Opinion
 - Tech
@@ -32,4 +33,6 @@ A cryptocurrency (or “crypto”) is kind of digital currency that can be used 
 
 All the "transactions" are prepared as a block and are distributed across various computers {if [decentralised](https://en.wikipedia.org/wiki/Decentralization)) and everyone who is part of that chain has a copy of all the previous transactions.
 
-Crypto can massively help in cross border payments as it is Peer-to-peer and does not require any 
+Crypto can massively help in cross border payments as it is Peer-to-peer and does not require any centralised authority to verify that. Instead all the members of the chain can verify the transactions and are rewarded with a piece of the pie for their work called mining. As of now most popular crptocurrencies are based on this fundnamental principle. 
+
+[https://balajis.com/why-india-should-buy-bitcoin/](https://balajis.com/why-india-should-buy-bitcoin/ "https://balajis.com/why-india-should-buy-bitcoin/") 
