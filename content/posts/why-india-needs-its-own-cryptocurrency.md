@@ -35,4 +35,28 @@ All the "transactions" are prepared as a block and are distributed across variou
 
 Crypto can massively help in cross border payments as it is Peer-to-peer and does not require any centralised authority to verify that. Instead all the members of the chain can verify the transactions and are rewarded with a piece of the pie for their work called mining. As of now most popular crptocurrencies are based on this fundnamental principle. 
 
+# Digital Rupee
+
+The [recently intriduced bill](https://www.prsindia.org/billtrack/draft-banning-cryptocurrency-regulation-official-digital-currency-bill-2019) proposes a ban of cryptocurrencies like Bitcoin in favor of a digital rupee on the grounds of protecting India's national security. But it is kind of counter-intuitive.
+
+## What is happenning in China?
+
+## Advantages of a digital rupee
+
+Use of some other crypto tech to prevent fraud and corruption.
+
+All government purchases and trasactions publically visible giving trust. 
+
+making accounting easy
+
+## Why back it with crypto
+
+because it is hedge against inflation
+
+same way like we do with gold
+
+# Dimplomacy
+
+# Conclusion
+
 [https://balajis.com/why-india-should-buy-bitcoin/](https://balajis.com/why-india-should-buy-bitcoin/ "https://balajis.com/why-india-should-buy-bitcoin/") 
