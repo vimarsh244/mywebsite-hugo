@@ -15,7 +15,7 @@ theme-transparent-header-meta: []
 
 Our website address is https://www.vimarsh.info. (“site”, “website”)
 
-## Some Important Info First
+## Some Important Info first
 
 We use Vercel to serve the website. You can find Vercel's Privacy Policy here: [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy "https://vercel.com/legal/privacy-policy")
 
