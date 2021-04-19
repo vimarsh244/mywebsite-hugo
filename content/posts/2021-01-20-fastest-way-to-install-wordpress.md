@@ -1,142 +1,129 @@
 ---
 title: Fastest way to install WordPress
 author: Vimarsh
-date: 2021-01-20T15:10:00+00:00
-url: /blog/fastest-way-to-install-wordpress/
+date: 2021-01-20T15:10:00.000+00:00
+url: "/blog/fastest-way-to-install-wordpress/"
 images:
-  - /wp-content/uploads/2021/02/1_1hLHDT7VkTYf0vWKdQhvcHA.png
+- "/wp-content/uploads/2021/02/1_1hLHDT7VkTYf0vWKdQhvcHA.png"
 categories:
-  - Tutorial
-  - Tech
+- Tutorial
+- Tech
 
 ---
-I will be showing you the fastest way to install a fully functional WordPress website with an auto-renewing free SSL certificate in less than 3 commands. Let’s get&nbsp;started.
+I will be showing you the fastest way to install a fully functional WordPress website with an auto-renewing free SSL certificate in less than 3 commands. Let’s get started.
 
-### Prerequisites 
+### Prerequisites
 
-Make sure you are using Linux or Mac for installing WordPress. If you are deploying a website you might be using a virtual machine in the cloud for the same. _Stay tuned for another post on how you can get 2 free VMs forever on Oracle&nbsp;Cloud_
+Make sure you are using Linux or Mac for installing WordPress. If you are deploying a website you might be using a virtual machine in the cloud for the same. _Stay tuned for another post on how you can get 2 free VMs forever on Oracle Cloud_
 
-We will be using an open-source tool called [Easyengine][1] for installing and managing WordPress
+We will be using an open-source tool called [Easyengine](https://github.com/EasyEngine/easyengine) for installing and managing WordPress
 
-![][2]
+![](https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd2afa4f.jpg)
 
 > EasyEngine makes it greatly easy to manage Nginx, fast web-server software that consumes little memory when handling increasing volumes of concurrent users.
-### Let’s get&nbsp;started
-![][3]
 
-### SSH into the&nbsp;VM
+### Let’s get started
 
-You can use Putty / Powershell or Terminal to SSH into the&nbsp;VM
+![](https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd33e0d4.jpg)
 
-Also, make sure to update installed packages by running sudo apt-get update && sudo apt-get upgrade&nbsp;-y
+### SSH into the VM
+
+You can use Putty / Powershell or Terminal to SSH into the VM
+
+Also, make sure to update installed packages by running sudo apt-get update && sudo apt-get upgrade -y
 
 ### Install EasyEngine
 
-Run the&nbsp;command
-```
-# Install EasyEngine on Linux
-wget -qO ee rt.cx/ee4 && sudo bash ee
+Run the command
 
-# If installing EasyEngine on Mac for Local Development 
-brew install easyengine
-```
-### To install WordPress website run the&nbsp;command
+    # Install EasyEngine on Linux
+    wget -qO ee rt.cx/ee4 && sudo bash ee
+    
+    # If installing EasyEngine on Mac for Local Development 
+    brew install easyengine
 
-```sudo ee site create website.com```
+### To install WordPress website run the command
 
-You can change the username & password of the WordPress install for security when you first open the&nbsp;website.
+`sudo ee site create website.com`
 
-**Make sure to change** [**website.com**][4] **with your domain&nbsp;name**
+You can change the username & password of the WordPress install for security when you first open the website.
 
-I also recommend setting up Redis cache for a better performant website 
-`ee site create example.com –type=wp –mu=subdir –cache`. 
-Easyengine automatically creates the database, sets up secure username and passwords as well. Making the whole process super&nbsp;easy.
+**Make sure to change** [**website.com**](http://website.com) **with your domain name**
+
+I also recommend setting up Redis cache for a better performant website
+`ee site create example.com –type=wp –mu=subdir –cache`.
+Easyengine automatically creates the database, sets up secure username and passwords as well. Making the whole process super easy.
 
 > Currently Easyengine does not support running without root privileges.
 
-You can check out further options&nbsp;[here][5]
+You can check out further options [here](https://github.com/EasyEngine/site-type-wp)
 
-### Pointing the domain name to the&nbsp;server
+### Pointing the domain name to the server
 
-Make sure you point your domain name to the server’s IP&nbsp;Address
+Make sure you point your domain name to the server’s IP Address
 
-Go to nameserver provider and set A record for your&nbsp;server.<figure class="wp-block-image">
+Go to nameserver provider and set A record for your server.<figure class="wp-block-image">
 
-![][6] </figure> 
+![](https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd38c086.jpg) </figure>
 
-**DNS Propogation might take&nbsp;time**
+**DNS Propogation might take time**
 
 ### Registering a SSL certificate
 
 To get auto-renewing _free_ SSL certificate run
 
-```
-sudo ee site update website.com
-```
+    sudo ee site update website.com
 
-This will install an SSL certificate from [Let’s Encrypt][7] and change necessary database entries for HTTPS. The certificate also auto-renews 1 month before the&nbsp;expiry
+This will install an SSL certificate from [Let’s Encrypt](https://letsencrypt.org/) and change necessary database entries for HTTPS. The certificate also auto-renews 1 month before the expiry
 
 _This might not work properly with Cloudflare_
 
-**And that is all.** You have a fully functional WordPress website with auto-renewing SSL certificate. You can go to the WordPress admin panel [example.com/wp-admin][8] and start customizing.
+**And that is all.** You have a fully functional WordPress website with auto-renewing SSL certificate. You can go to the WordPress admin panel [example.com/wp-admin](http://example.com/wp-admin) and start customizing.
 
-_And you can also create more websites on the same&nbsp;instance_
+_And you can also create more websites on the same instance_
 
-### Some other Useful&nbsp;Commands<figure class="wp-block-image">
+### Some other Useful Commands<figure class="wp-block-image">
 
-![][9] </figure> 
+![](https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd3ebd94.jpg) </figure>
 
-> Make sure to run with root privileges. You can use `sudo su` to run all following commands as&nbsp;root
+> Make sure to run with root privileges. You can use `sudo su` to run all following commands as root
 
 ### Installing PhPMyAdmin
 
-Easyengine gives the option to enable PhPMyAdmin and other admin&nbsp;[tools][10]
+Easyengine gives the option to enable PhPMyAdmin and other admin [tools](https://easyengine.io/handbook/admin-tools/#list-of-admin-tools)
 
-To use that run ee admin-tools enable example.com
+To use that run 
 
-By default, http authentication will be enabled. To view the username & password run ee auth list&nbsp;global
+    ee admin-tools enable example.com
 
-Then you can go to [example.com/ee-admin][11] to see available tools.<figure class="wp-block-image">
+By default, http authentication will be enabled. To view the username & password run ee auth list global
 
-![][12] </figure> 
+Then you can go to [example.com/ee-admin](http://example.com/ee-admin/) to see available tools.
+
+![](https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd445b73.jpg) 
 
 _source: EasyEngine_
 
 With the Database name, username & password now you can hence login to PHPMyAdmin
 
-### Deleting a&nbsp;website
+### Deleting a website
 
-To delete a website simply run ee site delete example.com<figure class="wp-block-image">
+To delete a website simply run 
 
-![][13] </figure> 
+    ee site delete example.com
+
+![](https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd4d29e3.jpg) 
 
 ### Restarting Docker Containers
 
-Sometimes due to some bug or high traffic, Nginx may crash: you can simply restart the containers by&nbsp;running
+Sometimes due to some bug or high traffic, Nginx may crash: you can simply restart the containers by running
 
-```
-# Restart all containers of site 
-$ ee site restart example.com 
+    # Restart all containers of site 
+    $ ee site restart example.com 
+    
+    # Restart single container of site 
+    $ ee site restart example.com
 
-# Restart single container of site 
-$ ee site restart example.com
-```
-Those were just some of the things you can do with EasyEngine, it is a very powerful tool: easy and quick. They have every command laid out well documented on their&nbsp;[website][14].
+Those were just some of the things you can do with EasyEngine, it is a very powerful tool: easy and quick. They have every command laid out well documented on their [website](https://easyengine.io/commands/).
 
-[EasyEngine Github][1]
-
- [1]: https://github.com/EasyEngine/easyengine
- [2]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd2afa4f.jpg
- [3]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd33e0d4.jpg
- [4]: http://website.com
- [5]: https://github.com/EasyEngine/site-type-wp
- [6]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd38c086.jpg
- [7]: https://letsencrypt.org/
- [8]: http://example.com/wp-admin
- [9]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd3ebd94.jpg
- [10]: https://easyengine.io/handbook/admin-tools/#list-of-admin-tools
- [11]: http://example.com/ee-admin/
- [12]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd445b73.jpg
- [13]: https://vimarsh.info/wp-content/uploads/2021/02/img_6022bbd4d29e3.jpg
- [14]: https://easyengine.io/commands/
- [15]: https://blog.vimarsh.info/fastest-way-to-install-wordpress
+[EasyEngine Github](https://github.com/EasyEngine/easyengine)
