@@ -30,4 +30,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/enjoying-learning.md
 - content/posts/why-india-needs-its-own-cryptocurrency.md
