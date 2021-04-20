@@ -16,7 +16,6 @@ tags:
 - digital rupee
 - india
 - Cryptocurrency
-draft: true
 
 ---
 India is a country where cash circulation amounts to whopping 5 lac crore rupees. With technologies like UPI and the tech boom, digital payments are on a stark rise📈.
@@ -102,11 +101,11 @@ All the transactions should be stored on a semi-public ledger and be made public
 
 ## What is happening in China?
 
-Since last October, China has started to issue small amounts of digital Yuan and has debut testing in smaller towns and cities. It also has tried various experiments which only allow citizens to buy goods from retail shops close to their homes, which had massive success. This gives a boost to the local economy. It is also a little concerning as it might try to push its digital Yuan aggressively to fight back US's dominance in global trade. 
+Since last October, China has started to issue small amounts of digital Yuan and has debut testing in smaller towns and cities. It also has tried various experiments which only allow citizens to buy goods from retail shops close to their homes, which had [massive success](https://www.ledgerinsights.com/dfin-fundconnect-to-provide-services-for-blockchain-asset-management-tool-turn/). This gives a boost to the local economy. It is also a little concerning as it might try to push its digital Yuan aggressively to fight back US's dominance in global trade.
 
 Sadly, privacy is an issue; for the State, it is good as most citizens do not care and it can collect all the information it wants. Chinese Government has a track record of not valuing ser privacy and going after individual which they deem is not loyal.
 
-China just [released a framework on how rules for such digital currencies](https://www.pymnts.com/news/international/2021/china-suggests-worldwide-cbdc-rules/) should be made. 
+China just [released a framework on how rules for such digital currencies](https://www.pymnts.com/news/international/2021/china-suggests-worldwide-cbdc-rules/) should be made.
 
 # Conclusion
 
