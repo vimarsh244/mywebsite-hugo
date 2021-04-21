@@ -110,7 +110,7 @@ All the transactions should be stored on a semi-public ledger and be made public
 
 Since last October, China has started to issue small amounts of digital Yuan and has debut testing in smaller towns and cities. It also has tried various experiments which only allow citizens to buy goods from retail shops close to their homes, which had [massive success](https://www.ledgerinsights.com/dfin-fundconnect-to-provide-services-for-blockchain-asset-management-tool-turn/ "On - How digital yuan benefitted Chineese economy"). This gives a boost to the local economy. It is also a little concerning as it might try to push its digital Yuan aggressively to fight back US's dominance in global trade.
 
-Sadly, privacy is an issue; for the State, it is good as most citizens do not care and it can collect all the information it wants. Chinese Government has a track record of not valuing ser privacy and going after individual which they deem is not loyal.
+Sadly, privacy is an issue; for the State, it is good as most citizens do not care and it can collect all the information it wants. Chinese Government wants to develop a [massive surveillance network](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/ "Article on China's plans for mass surveillance") for its citizens. This is used to crack down on minorities. With such privacy violations, such centralized tracked payment network doesn't seem to worry its citizens.
 
 China just [released a framework on how rules for such digital currencies](https://www.pymnts.com/news/international/2021/china-suggests-worldwide-cbdc-rules/ "China releasing framework") should be made.
 
@@ -119,3 +119,5 @@ China just [released a framework on how rules for such digital currencies](https
 Here we are [freezing accounts](https://news.bitcoin.com/paytm-freezes-indian-bank-accounts-cryptocurrency-trading/ "Indian banks freezing accounts if found that individual holds crypto") if there is any bitcoin activity detected whereas other big Payments providers are allowing the trade of Cryptocurrency on their platforms.![Morning Brew tweet stating how Venmo followed CashApp and started allowing Bitcoin trading](/uploads/morning-brew-tweet.png "Morning Brew tweet stating how Venmo followed CashApp and started allowing Bitcoin trading")
 
 We need a Central Bank Digital Currency that is backed by other such currencies. With a stable and trusted new financial sector, it will provide India opportunities to be the next London / Hongkong.
+
+***
