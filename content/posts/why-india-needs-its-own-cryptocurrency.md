@@ -1,5 +1,5 @@
 ---
-title: India's own Cryptocurrency is coming ₹
+title: India's own Cryptocurrency is coming₹
 author: Vimarsh
 date: 2021-04-24T08:00:00+05:30
 excerpt: Amid central government's plans to ban cryptocurrencies, there arrises a
