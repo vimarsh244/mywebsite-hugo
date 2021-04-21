@@ -39,7 +39,7 @@ Crypto can massively help in cross border payments as it is Peer-to-peer and doe
 
 1. It is not feasible to ban as anyone can very easily hold massive amounts of wealth in crypto \[pseudo-anonymously\] all secured with a long passphrase
 2. A lot of startups, researchers, founders would leave India if they are restricted
-3. We will lose our stance in world politics. As other countries will be launching their own such currencies. [China](https://www.wsj.com/articles/china-creates-its-own-digital-currency-a-first-for-major-economy-11617634118 "Wall Street Journal's article on China's digital Yuan") is already in advanced stages and the UK just announced they are [considering launching](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/978531/Final_CBDC_Taskforce_ToR.pdf "UK Announcement CBDC PDF") their own [Central Bank Digital Currency](https://en.wikipedia.org/wiki/Central_bank_digital_currency "Wikipedia page on Central Bank Digital Currency") (CBDC).
+3. We will lose our stance in world politics. As other countries will be launching their own such currencies. [China](https://www.wsj.com/articles/china-creates-its-own-digital-currency-a-first-for-major-economy-11617634118 "Wall Street Journal's article on China's digital Yuan") is already in advanced stages and the UK just announced that they are [considering launching](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/978531/Final_CBDC_Taskforce_ToR.pdf "UK Announcement CBDC PDF") their own [Central Bank Digital Currency](https://en.wikipedia.org/wiki/Central_bank_digital_currency "Wikipedia page on Central Bank Digital Currency") (CBDC).
 
 # Digital Rupee
 
