@@ -76,7 +76,7 @@ Not only is internet communication at risk but so are financial systems. [SWIFT]
 
 **Trust**
 
-If all government purchases and transactions including donations are made to be publicly visible it can give trust to the citizens and also counter massive corruption. Transparency is key for a stable and trusted government. Although most politicians might not favour this as it can backfire themselves only.  
+If all government purchases and transactions including donations are made to be publicly visible, it can give trust to the citizens and also counter massive corruption. Transparency is key for a stable and trusted government. Although most politicians might not favour this as it can backfire themselves only.  
 But it is definitely a way to give trust in government funds and efforts like [PMCares](https://www.pmcares.gov.in/en/).
 
 **Accounting**
