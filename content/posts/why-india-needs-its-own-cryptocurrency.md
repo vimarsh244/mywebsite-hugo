@@ -1,13 +1,14 @@
 ---
-title: India's own Cryptocurrency is coming ₹
+title: "India's own Cryptocurrency is coming ₹ \U0001F680\U0001F680"
 author: Vimarsh
 date: 2021-04-24T08:00:00+05:30
 excerpt: Amid central government's plans to ban cryptocurrencies, there arrises a
   really compelling reason on why India needs its own digital "Rupee"
-url: "/blog/why-india-needs-its-own-cryptocurrency"
+url: "/blog/india's-crypto"
 images:
 - "/uploads/rupixen-com-9xjixhkg-fo-unsplash.jpg"
-description: "and it's coming in hot \U0001F680"
+description: Amid central government's plans to ban cryptocurrencies, there arrises
+  a really compelling reason on why India needs its own digital "rupee"
 categories:
 - Opinion
 - Tech
@@ -16,9 +17,6 @@ tags:
 - india
 - Cryptocurrency
 draft: true
-
----
-Amid central government's plans to ban cryptocurrencies, there arrises a really compelling reason on why India needs its own digital "rupee"
 
 ---
 India is a country where cash circulation amounts to whopping 5 lac crore rupees. With technologies like UPI and the tech boom, digital payments are on a stark rise📈.
@@ -47,7 +45,6 @@ Crypto can massively help in cross border payments as it is Peer-to-peer and doe
 
 The [recently introduced bill](https://www.prsindia.org/billtrack/draft-banning-cryptocurrency-regulation-official-digital-currency-bill-2019 "India's drafted bill on changes to law relating to crypto's use.") proposes a ban of cryptocurrencies like Bitcoin in favour of a digital rupee on the grounds of protecting India's national security. But it is kind of counter-intuitive.
 
-  
 Cryptocurrencies, especially the most popular ones have a reputation of being volatile and have become famous for such headlines. That is true considering it is a new thing, but if we look back, it is volatile with respect to USD. If we compare it to other [securities and assets](https://www.dailyfx.com/bitcoin/bitcoin-vs-gold.html "Daily Fix's article on correlation of Bitcoin with Gold and why so") it might not seem that weird. [v/s stock market](https://www.forbes.com/sites/investor/2020/05/13/bitcoin-and-stocks-correlation-reveal-a-secret/?sh=17714bd612c2 "Forbes article on Bitcoin's correlation with Stock market")
 
 ![Bitcoin V/s Gold Average True Range as a percentage of price via dailyfix.com](/uploads/bitcoin-vs-gold.png "Bitcoin V/s Gold Average True Range as a percentage of price")
