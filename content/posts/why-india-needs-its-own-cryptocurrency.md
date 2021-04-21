@@ -1,7 +1,7 @@
 ---
 title: "India's own Cryptocurrency is coming ₹ \U0001F680\U0001F680"
 author: Vimarsh
-date: 2021-04-24T08:00:00+05:30
+date: 2021-04-21T13:00:00+05:30
 excerpt: Amidst central government's plans to ban cryptocurrencies, there arises a
   really compelling reason on why India needs its own digital "Rupee"
 url: "/blog/india-and-crypto"
@@ -16,7 +16,6 @@ tags:
 - digital rupee
 - india
 - Cryptocurrency
-draft: true
 
 ---
 India is a country where cash circulation amounts to whopping 5 lac crore rupees. With technologies like UPI and the tech boom, digital payments are on a stark rise📈.
@@ -120,6 +119,6 @@ Here we are [freezing accounts](https://news.bitcoin.com/paytm-freezes-indian-ba
 
 We need a Central Bank Digital Currency that is backed by other such currencies. With a stable and trusted new financial sector, it will provide India opportunities to be the next London / Hongkong.
 
-Thank you to [Krish](https://www.instagram.com/krish.patellll/ "Krish Patel") for the idea and fact-checking and [Aryan](https://aryantiwari.com/?utm_source=vim_article) for editing the article.
-
 ***
+
+Thank you to [Krish](https://www.instagram.com/krish.patellll/ "Krish Patel") for the idea and fact-checking and [Aryan](https://aryantiwari.com/?utm_source=vim_article) for editing the article.
