@@ -30,7 +30,7 @@ Like we had gold, that backed other currencies, we should launch our own coin an
 
 A cryptocurrency (or “crypto”) is a kind of digital currency that can be used to buy goods and services or be traded with other currencies. It uses a public ledger (generally) with strong encryption and verification techniques to secure online transactions.
 
-All the "transactions" are prepared as a block and are distributed across various computers {if [decentralised](https://en.wikipedia.org/wiki/Decentralization "Wikipedia page on what is decentralised system")) and everyone who is part of that chain has a copy of all the previous transactions.
+All the "transactions" are prepared as a block and are distributed across various computers (if [decentralised](https://en.wikipedia.org/wiki/Decentralization "Wikipedia page on what is decentralised system")) and everyone who is part of that chain has a copy of all the previous transactions.
 
 Crypto can massively help in cross border payments as it is Peer-to-peer and does not require any centralised authority to verify that. Instead, all the members of the chain can verify the transactions and are rewarded with a piece of the pie for their work - called mining. As of now, _most_ popular cryptocurrencies are based on this fundamental principle.
 
