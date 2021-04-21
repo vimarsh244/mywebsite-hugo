@@ -55,7 +55,7 @@ Also, if we have a cryptocurrency that equals 1 unit of fiat currency then this 
 
 **Fight Fraud and Corruption**
 
-A lot of Government expense is done in the field of interests and subsidy along with massive frauds in PMAY MGNREGA and other rural schemes. Along with that, it is undeniable fact that farmer subsidies are also not used properly.
+A lot of Government expense is done in the field of interests and subsidy along with massive frauds in PMAY MGNREGA and other rural schemes. Along with that, it is an undeniable fact that farmer subsidies are also not used properly.
 
 ![Graphical represntation by finshots.in showing sectors of Indian Government Expenditure](/uploads/finshots-government-expenditure.jpeg "Graphical represntation by finshots.in showing sectors of Indian Government Expenditure")
 
