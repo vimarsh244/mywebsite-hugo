@@ -16,6 +16,7 @@ tags:
 - digital rupee
 - india
 - Cryptocurrency
+draft: true
 
 ---
 India is a country where cash circulation amounts to whopping 5 lac crore rupees. With technologies like UPI and the tech boom, digital payments are on a stark rise📈.
