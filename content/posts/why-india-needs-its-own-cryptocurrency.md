@@ -120,6 +120,6 @@ Here we are [freezing accounts](https://news.bitcoin.com/paytm-freezes-indian-ba
 
 We need a Central Bank Digital Currency that is backed by other such currencies. With a stable and trusted new financial sector, it will provide India opportunities to be the next London / Hongkong.
 
-Thank you to [Krish](https://www.instagram.com/krish.patellll/ "Krish Patel") for the idea and fact-checking and [Aryan ](https://aryantiwari.com/?utm_source=vim_article)for editing the article.
+Thank you to [Krish](https://www.instagram.com/krish.patellll/ "Krish Patel") for the idea and fact-checking and [Aryan](https://aryantiwari.com/?utm_source=vim_article) for editing the article.
 
 ***
