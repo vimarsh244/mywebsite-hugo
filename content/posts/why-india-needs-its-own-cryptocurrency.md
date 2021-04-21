@@ -69,7 +69,7 @@ It also paves the path for several startups to take advantage and create such ne
 
 **Prevent financial deplatforming**
 
-Not only is just internet communication at risk but so is financial systems. [SWIFT](https://qz.com/1893235/swift-transfer-system-leaves-china-vulnerable-to-us-sanctions/ "What is SWIFT") and other global banking frameworks or even Google Pay are all US-controlled institutions and with US oversight it is possible for it to stop grants and trade going through SWIFT. Enforcing the need for a digital rupee based on other decentralized cryptos.
+Not only is internet communication at risk but so are financial systems. [SWIFT](https://qz.com/1893235/swift-transfer-system-leaves-china-vulnerable-to-us-sanctions/ "What is SWIFT") and other global banking frameworks or even Google Pay are all US-controlled institutions and with US oversight it is possible for it to stop grants and trade going through SWIFT. Enforcing the need for a digital rupee based on other decentralized cryptos.
 
 > decentralization defeats deplatforming.  
 > \- [balajis.com](https://balajis.com/why-india-should-buy-bitcoin/ "Good post by Balajis on Bitcoin and India")
