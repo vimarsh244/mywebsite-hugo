@@ -7,7 +7,7 @@ excerpt: Amidst central government's plans to ban cryptocurrencies, there arises
 url: "/blog/india-and-crypto"
 images:
 - "/uploads/rupixen-com-9xjixhkg-fo-unsplash.jpg"
-description: Amid central government's plans to ban cryptocurrencies, there arrises
+description: Amidst central government's plans to ban cryptocurrencies, there arises
   a really compelling reason on why India needs its own digital "rupee"
 categories:
 - Opinion
