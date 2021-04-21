@@ -4,7 +4,7 @@ author: Vimarsh
 date: 2021-04-24T08:00:00+05:30
 excerpt: Amid central government's plans to ban cryptocurrencies, there arrises a
   really compelling reason on why India needs its own digital "Rupee"
-url: "/blog/india's-crypto"
+url: "/blog/india-and-crypto"
 images:
 - "/uploads/rupixen-com-9xjixhkg-fo-unsplash.jpg"
 description: Amid central government's plans to ban cryptocurrencies, there arrises
