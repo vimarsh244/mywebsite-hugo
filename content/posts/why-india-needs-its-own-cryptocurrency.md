@@ -64,7 +64,7 @@ These "smart contracts" are faster, cheaper, and more efficient than traditional
 
 **Can prevent social deplatformation**
 
-The president of the United States was [deplatformed ](https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/ "Washington post news on President Trump being banned from social media")from Twitter, Facebook and also YouTube (partially). Even though we have restricted several Chinese services like TikTok US still has the power to easily block social media access to our leaders and important organizations especially in case of emergency. If we have a decentralized platform that runs on say Ethereum network then it is not possible for a single entity to deplatform a user, without the majority saying so.  
+The president of the United States was [deplatformed ](https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/ "Washington post news on President Trump being banned from social media")from Twitter, Facebook and also YouTube (partially). Even though we have restricted several Chinese services like TikTok; US still has the power to easily block social media access to our leaders and important organizations especially in case of emergency. If we have a decentralized platform that runs on say Ethereum network then it is not possible for a single entity to deplatform a user, without the majority saying so.  
 It also paves the path for several startups to take advantage of this and create such neutral platforms.
 
 **Prevent financial deplatforming**
