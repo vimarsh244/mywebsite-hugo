@@ -118,4 +118,4 @@ China just [released a framework on how rules for such digital currencies](https
 
 Here we are [freezing accounts](https://news.bitcoin.com/paytm-freezes-indian-bank-accounts-cryptocurrency-trading/ "Indian banks freezing accounts if found that individual holds crypto") if there is any bitcoin activity detected whereas other big Payments providers are allowing the trade of Cryptocurrency on their platforms.![Morning Brew tweet stating how Venmo followed CashApp and started allowing Bitcoin trading](/uploads/morning-brew-tweet.png "Morning Brew tweet stating how Venmo followed CashApp and started allowing Bitcoin trading")
 
-We need a Central Bank Digital Currency that is backed by other such currencies. With a stable and trusted new financial sector, it will provide India opportunities to be the next London / Hongkong
+We need a Central Bank Digital Currency that is backed by other such currencies. With a stable and trusted new financial sector, it will provide India opportunities to be the next London / Hongkong.
