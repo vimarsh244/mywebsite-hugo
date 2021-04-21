@@ -59,7 +59,7 @@ A lot of Government expense is done in the field of interests and subsidy along 
 
 ![Graphical represntation by finshots.in showing sectors of Indian Government Expenditure](/uploads/finshots-government-expenditure.jpeg "Graphical represntation by finshots.in showing sectors of Indian Government Expenditure")
 
-With help of cryptocurrencies, we can "program" it. For example, some money is given to farmer to be used for seeds, fertilizers etc., this might not be used for its intended cause and fraud might happen. If we can cryptographically make it so that that coin issued to the farmer is only valid if used for the purchase of agro-products | a lot of fraud can be avoided.  
+With help of cryptocurrencies, we can "program" it. For example, some money is given to farmer to be used for seeds, fertilizers etc., this might not be used for its intended cause, giving rise to fraudulent practices. If we can cryptographically make it so that the coin issued to the farmer is only valid if used for the purchase of agro-products | a lot of fraud can be avoided.  
 These "smart contracts" are faster, cheaper, and more efficient than traditional contracts and auditing methods. All of these contracts can be fulfilled and authorized automatically.
 
 **Can prevent social deplatformation**
