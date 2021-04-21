@@ -21,7 +21,7 @@ draft: true
 ---
 India is a country where cash circulation amounts to whopping 5 lac crore rupees. With technologies like UPI and the tech boom, digital payments are on a stark rise📈.
 
-The total global market cap in the world for cryptocurrencies is more than [2 trillion USD](https://coinmarketcap.com/ "Crypto coins market cap visualizer") (It doubled in the last two months alone), **two-thirds of India's annual GDP** 🤯 this tells a lot! And our government is planning to ban the use of cryptocurrencies. Dogecoin, a joke crossed 50 billion USD.
+The total global market cap in the world for cryptocurrencies is more than [2 trillion USD](https://coinmarketcap.com/ "Crypto coins market cap visualizer") (It doubled in the last two months alone), **two-thirds of India's annual GDP** 🤯 this tells a lot! And our government is planning to ban the use of cryptocurrencies. Dogecoin, started out as a joke, crossed 50 billion USD.
 
 > India should launch its own cryptocurrency and back it with other cypto
 
