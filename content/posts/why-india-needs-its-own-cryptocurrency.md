@@ -98,7 +98,7 @@ There won't be more than 21 million Bitcoin in existence and difficulty for mini
 India has recently started to follow its Non- Aligned Movement (NAM) policy. With trade wars going on between the two largest economies it provides India with an opportunity to jump in and become the financial trade centre to facilitate future global trades in the likes of Singapore, Switzerland, etc.  
 To power the next FinTech boom we need to create a strong foundation.
 
-If we start accepting payments with cryptocurrencies then outsourcing would increase, one of the biggest industries in India as the barrier to entry will get lower. It will also direct massive foreign direct investments into Indian businesses and Tech sector.
+If we start accepting payments with cryptocurrencies then outsourcing would increase one of the biggest industries in India as the barrier to entry will get lower. It will also direct massive foreign direct investments into Indian businesses and Tech sector.
 
 ## How it might operate
 
