@@ -34,7 +34,7 @@ All the "transactions" are prepared as a block and are distributed across variou
 
 Crypto can massively help in cross border payments as it is Peer-to-peer and does not require any centralised authority to verify that. Instead, all the members of the chain can verify the transactions and are rewarded with a piece of the pie for their work - called mining. As of now, _most_ popular cryptocurrencies are based on this fundamental principle.
 
-# Why India can't "ban" crypto
+# Why India shouldn't "ban" crypto
 
 1. It is not feasible to ban as anyone can very easily hold massive amounts of wealth in crypto \[pseudo-anonymously\] all secured with a long passphrase
 2. A lot of startups, researchers, founders would leave India if they are restricted
@@ -42,7 +42,9 @@ Crypto can massively help in cross border payments as it is Peer-to-peer and doe
 
 # Digital Rupee
 
-The [recently introduced bill](https://www.prsindia.org/billtrack/draft-banning-cryptocurrency-regulation-official-digital-currency-bill-2019 "India's drafted bill on changes to law relating to crypto's use.") proposes a ban of cryptocurrencies like Bitcoin in favour of a digital rupee on the grounds of protecting India's national security. But it is kind of counter-intuitive.
+The [recently introduced bill](https://www.prsindia.org/billtrack/draft-banning-cryptocurrency-regulation-official-digital-currency-bill-2019 "India's drafted bill on changes to law relating to crypto's use.") proposes a ban of cryptocurrencies like Bitcoin in favour of a digital rupee on the grounds of protecting India's national security.
+
+Instead of banning decentralized cryptocurrencies, we should use them to develop our own currency which is backed by decentralised solutions.
 
 Cryptocurrencies, especially the most popular ones have a reputation of being volatile and have become famous for such headlines. That is true considering it is a new thing, but if we look back, it is volatile with respect to USD. If we compare it to other [securities and assets](https://www.dailyfx.com/bitcoin/bitcoin-vs-gold.html "Daily Fix's article on correlation of Bitcoin with Gold and why so") it might not seem that weird. [v/s stock market](https://www.forbes.com/sites/investor/2020/05/13/bitcoin-and-stocks-correlation-reveal-a-secret/?sh=17714bd612c2 "Forbes article on Bitcoin's correlation with Stock market")
 
