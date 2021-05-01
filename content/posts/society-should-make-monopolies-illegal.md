@@ -14,7 +14,6 @@ categories:
 tags:
 - Essay
 - Monopolies
-draft: true
 
 ---
 Society should make monopolies illegal and I strongly stand by the statement. Let's imagine, in this current horribly dangerous second wave of COVID-19 that the Remdesivir injection, instead of being manufactured by many pharma companies, only one company had the exclusive right over its manufacturing. Not only would the supply be unable to sustain the demand, but it would also have given rise to even worse and exorbitant pricing of such crucial medications.
