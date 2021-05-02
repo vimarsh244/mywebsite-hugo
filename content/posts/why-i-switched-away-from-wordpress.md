@@ -63,7 +63,7 @@ According to their homepage -
 
 But for me, the reasons were simple, it was super fast, extremely easy to use and get started with, and had a massive collection of themes with a super friendly community. Along with that, the number of famous websites using it was large and substantial enough for me to not worry that it will vanish the next day.
 
-For theme, I use [PaperMod Theme](https://adityatelange.github.io/hugo-PaperMod/).
+Fora basic minimalist theme, I really enjoyed using the [PaperMod Theme](https://adityatelange.github.io/hugo-PaperMod/).
 
 With Static Site Generators you have to write in Markdown, which further allows you to easily migrate to any other framework as most of them are based on Markdown. They also allow massive amounts of customisability - from how your page looks to even how links should open in new tab and more.
 
