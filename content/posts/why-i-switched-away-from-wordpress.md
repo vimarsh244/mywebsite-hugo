@@ -67,6 +67,10 @@ Fora basic minimalist theme, I really enjoyed using the [PaperMod Theme](https:/
 
 With Static Site Generators you have to write in Markdown, which further allows you to easily migrate to any other framework as most of them are based on Markdown. They also allow massive amounts of customisability - from how your page looks to even how links should open in new tab and more.
 
+### My Workflow
+
+I start by writing in [notion](notion.so) and then move to forestry where I add metadata and images. After evrything is ready in the preview build I click on Save which creates a commit in Github. If there are any new changes [Vercel](vercel.app) then deploys and updates the live website.
+
 ### The con that is being actively solved
 
 The biggest downside and even the barrier to entry for adoption is the lack of any interface. Wordpress, Squarespace, Ghost, and others provide a really good [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) interface. Although, this downside is addressed by headless CMS like [Netlify CMS](https://www.netlifycms.org/), [Forestry](https://forestry.io/) etc. I personally use Forestry and enjoy doing so. It provides a clean interface which is responsive and super easy to get started with. You don't even need to know any coding to get started with Forestry which is super cool for new users.
