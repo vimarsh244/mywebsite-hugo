@@ -7,7 +7,7 @@ url: "/blog/Why-I-switched-away-from-Wordpress"
 images:
 - "/uploads/vincent-lavigna-rrevoabucwo-unsplash.jpg"
 description: Wordpress is the most popular CMS, and I decided to switch away from
-  it to move to Hugo a Static Site Generator.
+  it to move to Hugo - a Static Site Generator.
 categories:
 - Website
 - Tech
