@@ -59,7 +59,7 @@ From believing that GPS machines are "rigged" and Space Internet and weather sat
 
 From popular movie stars to young millennials - easily influenced by random YouTube video, there is a huge amount of people who believe the Earth is Flat.
 
-{{< tweet https://twitter.com/spf13/status/97943464267603968 >}}
+{{< tweet 97943464267603968 >}}
 
 One of the reasons people believe is the traction the movement has received. They have a very legit and seemingly [convincing website](https://theflatearthsociety.org/home/) with a very active forum. There are a lot of youtubers who try to prove that the Earth is Flat with obvious false methods or even as a joke. But there is a part of the society (a small part who is very influential) who will find a small evidence and put together a theory that is just opposite to what is taught in school.
 
