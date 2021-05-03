@@ -5,6 +5,8 @@ date: 2021-05-03T17:00:00+05:30
 url: "/blog/flat-earthers"
 images:
 - "/uploads/aaron-burden-7azzquxycac-unsplash.jpg"
+image:
+- "/uploads/aaron-burden-7azzquxycac-unsplash.jpg"
 description: Conspiracies show failure of education system - a deep dive into the
   thinking of flat earthers
 categories:
