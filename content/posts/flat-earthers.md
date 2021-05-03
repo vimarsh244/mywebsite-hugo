@@ -15,7 +15,6 @@ tags:
 - Earth
 - Universe
 - Flat Earth
-draft: true
 
 ---
 A lot of people especially young adults believe that the Earth is Flat!
