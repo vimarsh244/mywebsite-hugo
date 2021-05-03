@@ -5,8 +5,6 @@ date: 2021-05-03T17:00:00+05:30
 url: "/blog/flat-earthers"
 images:
 - "/uploads/aaron-burden-7azzquxycac-unsplash.jpg"
-image:
-- "/uploads/aaron-burden-7azzquxycac-unsplash.jpg"
 description: Conspiracies show failure of education system - a deep dive into the
   thinking of flat earthers
 categories:
@@ -31,13 +29,13 @@ There are several flat earth theories and some which even say Earth is doughnut!
 
 > The leading flat-earther theory holds that Earth is a disc with the Arctic Circle in the center and Antarctica, a 150-foot-tall wall of ice, around the rim. NASA employees, they say, guard this ice wall to prevent people from climbing over and falling off the disc.
 
-![](/uploads/flat-earth-image.png)
+![Flat Earth Visualisation](/uploads/flat-earth-image.png "Flat Earth Visualisation")
 
 Along with that, there are several old mythological and religious theories that people believed it in the 15th century when we were not this advanced of a civilization.
 
 Earth's days and nights cycle is explained by 2 spheres (Sun and Moon) measuring \~50 kilometers moving in circles \~4830 km above the plane of the Earth. According to them Stars move in a plane that is \~5000km above the Earth. Like streetlights these celestial bodies illuminate different parts of the Earth at different times. They also agree upon some anti-moon like disc which cause phases of the moon and even lunar eclipses.
 
-![](/uploads/earth-and-moon-flat-earth.gif)
+![How seasons happen](/uploads/earth-and-moon-flat-earth.gif "How seasons happen")
 
 Some theories also include presence of 2 or more sun and moon being some supernatural entities which emit light according to the region.
 
@@ -75,7 +73,7 @@ Even with several [counter-proofs](https://en.wikipedia.org/wiki/Flat_Earth) and
 
 A major subset of the flat earth believers probably know science better than us but have convinced themselves with their thinking that the Earth is flat. These are the same type of people who made society think otherwise in the 16th century when the church used to force people to believe the Earth to be flat. I am not telling that their theories are even remotely true, but during the time when most people are becoming robots thanks to our education system, we need such free thinkers; people who would like to do something opposite the society's normal thinking. These are the people who might find answers to a lot of astronomical problems.
 
-Censorship of ideas hampers progress. YouTube has been vocal about it and it actually does censor videos proving flat earth. These videos are not to be found by searching. Censorship fuels conspiracy narratives. Conspiracy theorists, once censored, can add to their arguments that they must have “them” frightened of “the truth” because “they” are now stooping to censorship to stamp out those who speak truth to power.![](/uploads/actionvance-t7el2ig3jmc-unsplash.jpg)
+Censorship of ideas hampers progress. YouTube has been vocal about it and it actually does censor videos proving flat earth. These videos are not to be found by searching. Censorship fuels conspiracy narratives. Conspiracy theorists, once censored, can add to their arguments that they must have “them” frightened of “the truth” because “they” are now stooping to censorship to stamp out those who speak truth to power.![A view from space](/uploads/actionvance-t7el2ig3jmc-unsplash.jpg "A view from space")
 
 And it is good that people are being vocal about it and exploring the truth themselves rather than just beleiving what is spoonfed to them when they are in grade 3.
 
@@ -85,7 +83,7 @@ The "logical" explanations that the flat earthers come up with are so absurd, th
 
 ***
 
-Thanks to my friend for asking me to go into this hole of conspiracies.
+Thanks to my friend for asking me to write on the topic.
 
 ![aabhas - my friend's suggestion on writing on the topic](/uploads/aabhas-suggestion-on-writing-on-the-topic.png "aabhas's suggestion on writing on the topic")
 
