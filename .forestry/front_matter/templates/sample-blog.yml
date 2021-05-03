@@ -11,9 +11,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: textarea
-  name: excerpt
-  label: excerpt
 - type: text
   name: url
   label: url
