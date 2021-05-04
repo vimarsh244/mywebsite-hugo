@@ -63,7 +63,7 @@ Hopefully capitalists don't start charging for those too!
 
 15-16 is the age the student can explore his hobby, engross in learning what they like, build up some social skills or whatever; but instead they are removed from school, put into coaching classes where they fill up 200 books when they are not even sure of what to do in life.
 
-The ultimate solution is changing the mentality at the grass-root level, and not just for one child but everyone. Probably by forcing ban on extra classes??
+The ultimate solution is changing the mentality at the grass-root level, and not just for one child but everyone. Probably by forcing ban on extra classes?? Establishment of modern [_gurukuls _](https://en.wikipedia.org/wiki/Gurukula "Gurukuls - Wikipedia")can help too.
 
 ***
 
