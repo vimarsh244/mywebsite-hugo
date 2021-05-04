@@ -85,7 +85,7 @@ Another article focusing on JEE race coming soon.
 
 [10-1-1-716-22.pdf](/uploads/10-1-1-716-22.pdf "10-1-1-716-22.pdf")
 
-[http://niepa.ac.in/New/download/Publications/JEPA_(15 years)/JEPA 2017_Vol-31 (1-4)/JEPA_APR-2017_2.pdf#page=38](http://niepa.ac.in/New/download/Publications/JEPA_(15 years)/JEPA 2017_Vol-31 (1-4)/JEPA_APR-2017_2.pdf#page=38 "Specific link to PDF - coaching classes")
+[http://niepa.ac.in/New/download/Publications/JEPA_](http://niepa.ac.in/New/download/Publications/JEPA_(15 years)/JEPA 2017_Vol-31 (1-4)/JEPA_APR-2017_2.pdf#page=38 "http://niepa.ac.in/New/download/Publications/JEPA_(15 years)/JEPA 2017_Vol-31 (1-4)/JEPA_APR-2017_2.pdf#page=38")[(15 years)/JEPA 2017_Vol-31 (1-4)/JEPA_APR-2017_2.pdf#page=38](http://niepa.ac.in/New/download/Publications/JEPA_(15%20years)/JEPA%202017_Vol-31%20(1-4)/JEPA_APR-2017_2.pdf#page=38)
 
 For more info on coaching classes
 
