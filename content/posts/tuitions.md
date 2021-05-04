@@ -33,7 +33,7 @@ Tuitions grow in strength when an underperforming student goes and improves, The
 
 It is hence undeniable that private tuition has become extremely common and those who can afford it attend tuition classes. It is also not the fault of the parents and students, most of them feel that the school teachers are not that good or school is not teaching properly, and hence, enroll in classes which either teach better or where school teachers privately teach the kids.
 
-Exams like JEE / NEET / UPSC were formed to check intelligence of students and their ability to think in a different way, but the greedy people started coaching institutes where all the different types of manipulations/tricks are taught. Instead of testing general intelligence and on-the-spot thinking abilities, now who can rote more things and faster gets a big preference. Not only does this discourage other students but the student who is also part of this system (includes me) feels burdened and does not enjoy what they are learning as most things once explained are expected to be "memorized" _varna IIT nahi ho payegi_
+Exams like JEE / NEET / UPSC were formed to check intelligence of students and their ability to think in a different way, but the greedy people started coaching institutes where all the different types of manipulations/tricks are taught. Instead of testing general intelligence and on-the-spot thinking abilities, now who can rote more things and faster gets a big preference. Not only does this discourage other students but the student who is also part of this system feels burdened and does not enjoy what they are learning as most things once explained are expected to be "memorized" _varna IIT nahi ho payegi_
 
 ![A dark Empty Classroom](/uploads/ruben-rodriguez-ixtvnoostyu-unsplash.jpg "A dark Empty Classroom")
 
@@ -67,7 +67,7 @@ Hopefully capitalists don't start charging for those too!
 
 The ultimate solution is changing the mentality at the grass-root level, and not just for one child but everyone. Probably by forcing ban on extra classes?? Establishment of modern [_gurukuls _](https://en.wikipedia.org/wiki/Gurukula "Gurukuls - Wikipedia")can help too.
 
-School is about the learning attitude and values, not a mere alternative of tutions which are centers of studying. 
+School is about the learning attitude and values, not a mere alternative of tutions which are centers of studying.
 
 > The education in schools needs to be more about learning the "Learning attitude"
 
