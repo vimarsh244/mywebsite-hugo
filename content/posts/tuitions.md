@@ -1,5 +1,5 @@
 ---
-title: Tuitions
+title: Cost of Marks - Tutions taking toll on Learning
 author: Vimarsh
 date: 2021-05-04T16:00:00+05:30
 url: "/blog/tuitions"
@@ -7,6 +7,7 @@ images:
 - "/uploads/kyo-azuma-x_tjkvu1fja-unsplash.jpg"
 description: How schools are sabotaged - on the failing education system and how tuitions
   play a role in rotting young brains | High school students' take on the subject
+  | The hefty price students pay for marks - how tuitions profit out of obsession
 categories:
 - Education
 - School
@@ -16,7 +17,6 @@ tags:
 - Education
 - Tuition
 - Schools
-draft: true
 
 ---
 In India, like most developing countries, there exists a system of “private tuition”, which runs parallel and ahead of the formal system of education to supplement academic support and to overcome school inadequacies. There is very little amount of research done in the field of education and especially supplemental education that students receive- (a lot of it [behind](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0084.1996.mp58001004.x) [horrendous.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/rode.12196) [paywalls](https://www.jstor.org/stable/4404908?seq=1)😠 \[[another](https://link.springer.com/article/10.1007/s11125-015-9350-5) one - how is this even legal?\]). If you are more interested in the _raw numbers_ of future economic, financial, societal harm you can find sources, used for this article, linked below.
@@ -45,6 +45,8 @@ Also, just remember its not just secondary school students but even a kid who is
 
 The biggest problem I am observing with the rise of tuition classes is the loss of respect for teachers. For almost everyone, school is supposed to be our second house where parents enroll you at young age to learn how to socialize, respect others, communicate, other basic skills and manners. But with the rise of tuitions, the respect for school teachers is reducing and is almost non-existent as all believe - we will do this in "classes". I personally am extremely offended by this statement and the disrespect shown to school teachers. How will these students, who can't respect their teacher, be able to respect other human beings and their elderly, chances are NONE!
 
+Not only do they not respect the teachers, but the attitude of learning is also GONE. From talking in class to eating when sir is teaching, students think all is fine as they will cover the subject in tuitions.
+
 Also, at the end of the day most people in rat race don't get selected and the IIT aspirants who do, go into chemical? After having studied alone for 2-4 years in "dummy schooling" (aka not going to school and getting attendance, etc.) they can't even [communicate properly and are burnt-out](https://theprint.in/india/education/no-life-no-hobbies-burnout-lost-childhood-the-price-students-pay-for-a-prized-iit-seat/625040/ "Article by The Print on problems faced y IITians") and [face issues](https://www.livemint.com/news/india/super-failure-horrors-of-iit-dream-1563901414369.html "Report by livemint ") in super [competitive](https://www.livemint.com/news/india/campus-recruitment-dreams-go-sour-as-companies-take-a-hit-11585852295799.html "IITs have to start second recruitment session after many students not able to get job due to COVID-19") global landscape.
 
 Another problem is that these tuition classes are attracting highly skilled, really caring teachers who teach at school or could potentially **educate** with high pays or even simply— less bureaucratic and spoilt management. When super experienced and awesome teachers, who could really inculcate students' values, join tuition classes - it hurts me. It also creates a disparity. As now, to learn with good teachers you need to spend more $$ and need to get enrolled into another tuition class.
@@ -64,6 +66,10 @@ Hopefully capitalists don't start charging for those too!
 15-16 is the age the student can explore his hobby, engross in learning what they like, build up some social skills or whatever; but instead they are removed from school, put into coaching classes where they fill up 200 books when they are not even sure of what to do in life.
 
 The ultimate solution is changing the mentality at the grass-root level, and not just for one child but everyone. Probably by forcing ban on extra classes?? Establishment of modern [_gurukuls _](https://en.wikipedia.org/wiki/Gurukula "Gurukuls - Wikipedia")can help too.
+
+School is about the learning attitude and values, not a mere alternative of tutions which are centers of studying. 
+
+> The education in schools needs to be more about learning the "Learning attitude"
 
 ***
 
