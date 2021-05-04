@@ -6,7 +6,7 @@ url: "/blog/tuitions"
 images:
 - "/uploads/kyo-azuma-x_tjkvu1fja-unsplash.jpg"
 description: How schools are sabotaged - on the failing education system and how tuitions
-  play a role in rotting young brains
+  play a role in rotting young brains | High school students' take on the subject
 categories:
 - Education
 - School
@@ -29,13 +29,13 @@ Tuitions grow in strength when an underperforming student goes and improves, The
 
 > The extent of private tutoring is significantly higher in Grade X compared in Grade IX. The average percentage of students seeking private tuition is 58.8% as against 32% in Grade IX. Since the results of public examination in Grade X determines admission into higher secondary as well as choice of subjects and streams, a higher percentage of students in Grade X obviously prefer to go for private tutoring compared to Grade IX.
 >
-> \-  [A fairly old study](https://journals.openedition.org/ries/3913)
+> \-  [A fairly old study](https://journals.openedition.org/ries/3913 "Link to the research done on the topic")
 
 It is hence undeniable that private tuition has become extremely common and those who can afford it attend tuition classes. It is also not the fault of the parents and students, most of them feel that the school teachers are not that good or school is not teaching properly, and hence, enroll in classes which either teach better or where school teachers privately teach the kids.
 
 Exams like JEE / NEET / UPSC were formed to check intelligence of students and their ability to think in a different way, but the greedy people started coaching institutes where all the different types of manipulations/tricks are taught. Instead of testing general intelligence and on-the-spot thinking abilities, now who can rote more things and faster gets a big preference. Not only does this discourage other students but the student who is also part of this system (includes me) feels burdened and does not enjoy what they are learning as most things once explained are expected to be "memorized" _varna IIT nahi ho payegi_
 
-![](/uploads/ruben-rodriguez-ixtvnoostyu-unsplash.jpg)
+![A dark Empty Classroom](/uploads/ruben-rodriguez-ixtvnoostyu-unsplash.jpg "A dark Empty Classroom")
 
 I am too part of this system, and frankly speaking enjoy learning extra new things which involves more thinking and I appreciate the thinking behind a question, but it is not the case in general. Students are bombarded with questions, (with curriculum that doesn't make sense even in the professional world) and with solving same type of question with different values, you are expected to memorize the way you found that answer. Is this exploration based learning! NO - Students are speedrunning these questions with their skills on how much can be memorized.
 
@@ -45,7 +45,7 @@ Also, just remember its not just secondary school students but even a kid who is
 
 The biggest problem I am observing with the rise of tuition classes is the loss of respect for teachers. For almost everyone, school is supposed to be our second house where parents enroll you at young age to learn how to socialize, respect others, communicate, other basic skills and manners. But with the rise of tuitions, the respect for school teachers is reducing and is almost non-existent as all believe - we will do this in "classes". I personally am extremely offended by this statement and the disrespect shown to school teachers. How will these students, who can't respect their teacher, be able to respect other human beings and their elderly, chances are NONE!
 
-Also, at the end of the day most people in rat race don't get selected and the IIT aspirants who do, go into chemical? After having studied alone for 2-4 years in "dummy schooling" (aka not going to school and getting attendance, etc.) they can't even [communicate properly and are burnt-out](https://theprint.in/india/education/no-life-no-hobbies-burnout-lost-childhood-the-price-students-pay-for-a-prized-iit-seat/625040/) and [face issues](https://www.livemint.com/news/india/super-failure-horrors-of-iit-dream-1563901414369.html) in super [competitive](https://www.livemint.com/news/india/campus-recruitment-dreams-go-sour-as-companies-take-a-hit-11585852295799.html) global landscape.
+Also, at the end of the day most people in rat race don't get selected and the IIT aspirants who do, go into chemical? After having studied alone for 2-4 years in "dummy schooling" (aka not going to school and getting attendance, etc.) they can't even [communicate properly and are burnt-out](https://theprint.in/india/education/no-life-no-hobbies-burnout-lost-childhood-the-price-students-pay-for-a-prized-iit-seat/625040/ "Article by The Print on problems faced y IITians") and [face issues](https://www.livemint.com/news/india/super-failure-horrors-of-iit-dream-1563901414369.html "Report by livemint ") in super [competitive](https://www.livemint.com/news/india/campus-recruitment-dreams-go-sour-as-companies-take-a-hit-11585852295799.html "IITs have to start second recruitment session after many students not able to get job due to COVID-19") global landscape.
 
 Another problem is that these tuition classes are attracting highly skilled, really caring teachers who teach at school or could potentially **educate** with high pays or even simply— less bureaucratic and spoilt management. When super experienced and awesome teachers, who could really inculcate students' values, join tuition classes - it hurts me. It also creates a disparity. As now, to learn with good teachers you need to spend more $$ and need to get enrolled into another tuition class.
 
@@ -57,7 +57,7 @@ It is also not the case that only India is in the loop, in USA for example, ther
 
 People say that we need to fix this, we need to grade based on innovation or extra curricular activities and sports, etc. But the ironic thing is, if that were to happen, these institutes will rush out to expand in ""teaching"" innovation and building a startup!!!?.
 
-What we need is change in mentality, the rat race needs to halt, the disparity to settle and education to be democratized. E-learning platforms like Byjus, Unacademy are growing fast and they are really good at teaching interactively and with really good teachers, but they are super expensive, and some just [open scams](https://www.linkedin.com/feed/update/urn:li:activity:6752131410527600640/) are not helping the situation. The outdated curriculum is not helping, only with introduction of specialized career courses like those from [Google](https://grow.google/certificates/) or [Amazon](https://lambdaschool.com/the-commons/lambda-school-launches-backend-engineering-program-amazon) can help the situation.
+What we need is change in mentality, the rat race needs to halt, the disparity to settle and education to be democratized. E-learning platforms like Byjus, Unacademy are growing fast and they are really good at teaching interactively and with really good teachers, but they are super expensive, and some just [open scams](https://www.linkedin.com/feed/update/urn:li:activity:6752131410527600640/ "Linkedin Post on how Byjus and WhiteHatJr is a SCAM") are not helping the situation. The outdated curriculum is not helping, only with introduction of specialized career courses like those from [Google](https://grow.google/certificates/ "Google's course ") or [Amazon](https://lambdaschool.com/the-commons/lambda-school-launches-backend-engineering-program-amazon "Announcement by Lamdaschool on this course") can help the situation.
 
 Hopefully capitalists don't start charging for those too!
 
@@ -67,7 +67,7 @@ The ultimate solution is changing the mentality at the grass-root level, and not
 
 ***
 
-Thanks to [Aryan](https://aryantiwari.com/?utm_source=vimarsh) and [Aabhas](https://aabhass.in/?utm_source=vimarsh) for their contributions.
+Massive thanks to [Aryan](https://aryantiwari.com/?utm_source=vimarsh) and [Aabhas](https://aabhass.in/?utm_source=vimarsh) for their contributions.
 
 Another article focusing on JEE race coming soon.
 
