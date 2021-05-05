@@ -58,7 +58,7 @@ The solution starts with you, and especially the youth and Gen Z. If you see an 
 
 When you have the temptation to buy something, pause, self-reflect, and think - Do I really need this? Being content with life (a very important skill, not taught to us) rather than always wanting to get something new; will make you a happier individual.
 
-> Before Buying rethink "Do you want it or need It"
+> Before buying think "Do you WANT it or NEED it"
 
 We need to be creative. Let's say the internet vanishes tomorrow, what will we do as people. Find something in which you truly find entertainment. Wanting to get a carpet? consider getting it from a small business owner instead of Amazon - sounds small but will help. These corporations are selling us convenience. Try to learn the ability to learn and build new things instead of indulging in the materialistic world. Learning and exploring hobbies has brought improvement to the self and the world since centuries.
 
