@@ -5,7 +5,8 @@ date: 2021-05-05T17:00:00+05:30
 url: "/blog/consumerism"
 images:
 - "/uploads/picture-of-a-purple-iphone-by-daniel-romero-unsplash.jpg"
-description: ''
+description: Consumerism manipulated our minds, society and behaviour. How desires
+  lead to luxury, over-spending and damage to environment. What is beyond consumption?
 categories:
 - Opinion
 tags:
@@ -13,7 +14,6 @@ tags:
 - Apple
 - Minimalism
 - Consumerism
-draft: true
 
 ---
 > We are not consumers. We are people.
@@ -22,7 +22,7 @@ And we are definitely not products.
 
 But modern society has made us either mindless consumeristic zombies or a product of our own doings.
 
-We are not living our lives to earn money and shop whatever we want, have a luxury house, or entertain ourselves. We definitely are not living to support big and even small corporations as if we are some kind of robots. And, if we take a look from a perspective of an alien (who is not part of society) it seems that we are.
+We are not living our lives to earn money and shop whatever we want, have a luxury house, or entertain ourselves. We definitely are not living to support big and even small corporations as if we are some kind of robots. But, if we take a look from a perspective of an alien (who is not part of society) it seems that we are.
 
 We spend our childhoods in schools, [toil in tuitions](https://www.vimarsh.info/blog/tuitions) for getting into a good college, to ultimately have the best chance at getting a job "you desire". Then at those workplaces, we fight with our colleagues on the way up, in the hope of getting a brand new house or even as simple as getting the new iPhone. A part of society climbs up the corporate ladder to get new Teslas while others want to live a simple life.
 
@@ -56,13 +56,15 @@ If all these products and services didn't exist, what would society be like? In 
 
 The solution starts with you, and especially the youth and Gen Z. If you see an advertisement and are tempted to buy it - * do not buy it *. Reduce your consumption and temptation to consume. Social Media networks are consumables that tempt you to get other stuff with advertisements. Reducing usage and the double-tap attitude will help a lot. Along with that, we need to learn to make human connections. The ability to have a relation with a human or any other life form has reduced as we become more brainwashed as consumers.
 
-> When you have the temptation to buy something, pause, self-reflect, and think - Do I really need this? Being content with life (a very important skill, not taught to us) rather than always wanting to get something new; will make you a happier individual.
+When you have the temptation to buy something, pause, self-reflect, and think - Do I really need this? Being content with life (a very important skill, not taught to us) rather than always wanting to get something new; will make you a happier individual.
+
+> Before Buying rethink "Do you want it or need It"
 
 We need to be creative. Let's say the internet vanishes tomorrow, what will we do as people. Find something in which you truly find entertainment. Wanting to get a carpet? consider getting it from a small business owner instead of Amazon - sounds small but will help. These corporations are selling us convenience. Try to learn the ability to learn and build new things instead of indulging in the materialistic world. Learning and exploring hobbies has brought improvement to the self and the world since centuries.
 
 Judging the value of a product you are tempted to buy or use by its utilitarian value rather than its influence shadowed upon you or your friend using it, can help a lot.
 
-What will you do, when you are truly content?
+> ## **What will you do, when you are truly content?**
 
 ***
 
