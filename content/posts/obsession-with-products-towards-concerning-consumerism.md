@@ -1,5 +1,5 @@
 ---
-title: Consumerism - the mindset
+title: Obsession with Products - Towards concerning consumerism
 author: Vimarsh
 date: 2021-05-05T17:00:00+05:30
 url: "/blog/consumerism"
