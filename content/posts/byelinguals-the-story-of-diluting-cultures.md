@@ -1,11 +1,13 @@
 ---
 title: BYELinguals - The Story of Diluting Cultures
-author: Vimarsh, Aabhas & Aryan
+author: Vimarsh, Aryan and Aabhas
 date: 2021-05-06T18:00:00+05:30
 url: "/blog/languages"
 images:
 - "/uploads/thomas-kelley-hhl08lf7ikc-unsplash.jpg"
-description: ''
+description: How is globalisation shaping our language, communication and culture.
+  We are getting detached from our grass roots and thus from our culture. Why is the
+  youth responsible and the daily dilemma of a bilingual?
 categories:
 - Opinion
 - Blog Post a Day
@@ -14,7 +16,6 @@ tags:
 - english
 - culture
 - languages
-draft: true
 
 ---
 You are currently reading English, considered as the Universal language. Not only, does it give me a wider audience I can communicate with, but it is also super easy to translate to the language of your choice. Most chats and emails I have with people is now in English. I read and study in English but yet at my house, I speak in Gujarati. Language is not just a way of communication but a culture engrossed in the society, we live in. India has the highest amount of non-native English speakers.
@@ -24,6 +25,8 @@ When you learn a new language, it not only involves learning its alphabet, the w
 > A language is a structured system of communication used by humans, including speech (spoken language), gestures (sign language) and writing. Most languages have a writing system composed of glyphs to inscribe the original sound or gesture and its meaning.
 >
 > \-  [Wikipedia](https://en.wikipedia.org/wiki/Language "Wikipedia page")
+
+![](/uploads/clarissa-watson-jaebodq7oxk-unsplash.jpg)
 
 ## Communication
 
