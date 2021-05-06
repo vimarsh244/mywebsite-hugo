@@ -27,6 +27,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/byelinguals-the-story-of-diluting-cultures.md
 - content/posts/enjoying-learning.md
 - content/posts/flat-earthers.md
 - content/posts/obsession-with-products-towards-concerning-consumerism.md
