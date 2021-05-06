@@ -24,6 +24,11 @@ But modern society has made us either mindless consumeristic zombies or a produc
 
 We are not living our lives to earn money and shop whatever we want, have a luxury house, or entertain ourselves. We definitely are not living to support big and even small corporations as if we are some kind of robots. But, if we take a look from a perspective of an alien (who is not part of society) it seems that we are.
 
+**What is Consumerism?**
+
+> **Consumerism** is a [social](https://en.wikipedia.org/wiki/Social) and economic order that encourages the acquisition of [goods and services](https://en.wikipedia.org/wiki/Goods_and_services "Goods and services") in ever-increasing amounts.  
+> \- [Wikipedia](https://en.wikipedia.org/wiki/Consumerism "Wikipedia page on Consumerism")
+
 We spend our childhoods in schools, [toil in tuitions](https://www.vimarsh.info/blog/tuitions) for getting into a good college, to ultimately have the best chance at getting a job "you desire". Then at those workplaces, we fight with our colleagues on the way up, in the hope of getting a brand new house or even as simple as getting the new iPhone. A part of society climbs up the corporate ladder to get new Teslas while others want to live a simple life.
 
 In the current scenario, all sections of the society around us seem to be mere consumers. It seems like all world's problems are solved by "consuming". Feeling sad? - shop or watch Netflix. Want to know what is going around - Watch TV News or scroll through Twitter. Want to 'socialize' go to Instagram and YouTube. Are you obese? or have some disease? - buy some fitness equipment or gym membership. Wherever we go it's the same thing. When you 'work' you are working for a corporation. And most of the stuff we accumulate over our lifetime is unnecessary.
