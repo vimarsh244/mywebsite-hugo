@@ -1,6 +1,6 @@
 ---
 title: Obsession with Products - Towards concerning consumerism
-author: Vimarsh
+author: Vimarsh, Aryan and Aabhas
 date: 2021-05-05T17:00:00+05:30
 url: "/blog/consumerism"
 images:

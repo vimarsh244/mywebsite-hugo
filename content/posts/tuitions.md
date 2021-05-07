@@ -1,6 +1,6 @@
 ---
 title: Cost of Marks - Tutions taking toll on Learning
-author: Vimarsh
+author: Vimarsh, Aryan and Aabhas
 date: 2021-05-04T16:00:00+05:30
 url: "/blog/tuitions"
 images:
