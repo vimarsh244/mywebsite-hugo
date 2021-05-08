@@ -1,16 +1,19 @@
 ---
-title: Benevolence
+title: 'Benevolence: Self-Introspection in world of selfishness'
 author: Vimarsh
 date: 2021-05-08T20:00:00+05:30
 url: "/blog/benevolence"
 images: []
-description: ''
-categories: []
+description: Introspecting the lack of selfless kindness and goodness - benevolence.
+  On how benevolence is key to the improvement of the world, how the youth and education
+  can play an important role in inculcating benevolence and why it needs to be selfless.
+categories:
+- ''
 tags: []
 draft: true
 
 ---
-\**What is benevolence?** 
+\*_What is benevolence?_*
 
 Well, Google says it’s “the quality of being well-meaning; kindness.” But the strange part is that the Google definition’s card doesn’t show any origin of the word. This suggests that the act of being kind is a centuries-old idea and a highly integrated part of human nature. But along with that, the word usage has dropped significantly over the last two centuries. Well yes, there are synonyms, but the drop in usage can only suggest that we don’t talk about being benevolent as much we should.
 
@@ -18,7 +21,7 @@ This brings us to the fact that people might not realize, but kindness is everyw
 
 \## Returns
 
-One of the key aspects of benevolence is not expecting any return. We often help other people, but if it is in expectation of getting something in return, then it's not true benevolence. Even if you expect any P**unya** or goodwill, that is still not pure benevolence. Not only is this highlighted in mythology but there are also several contemporary examples, especially during the times of COVID. There are so many people who give selfless service be it healthcare workers, or volunteers who help to arrange oxygen and coordinate logistics. There might be many who are after money, or fame but a lot of them are silent, working behind the curtains, making the society not topple itself over. 
+One of the key aspects of benevolence is not expecting any return. We often help other people, but if it is in expectation of getting something in return, then it's not true benevolence. Even if you expect any **Punya** or goodwill, that is still not pure benevolence. Not only is this highlighted in mythology but there are also several contemporary examples, especially during the times of COVID. There are so many people who give selfless service be it healthcare workers, or volunteers who help to arrange oxygen and coordinate logistics. There might be many who are after money, or fame but a lot of them are silent, working behind the curtains, making the society not topple itself over.
 
 Benevolence is not also just about big things, but also about small things in life. Donating billions of money is good, but even if you console a sad person and encourage them, the act goes far and beyond. Developing this quality can go a long way to be optimistic, live a worry-less life, and make the world a better place.
 
@@ -40,7 +43,7 @@ People often see an injured dog and feel pity, or are sympathetic. We help him, 
 
 The extent to which anyone shows or expresses kindness can be arranged into a hierarchy:
 
-Pity < Sympathy < Empathy < Compassion < Benevolence. 
+Pity < Sympathy < Empathy < Compassion < Benevolence.
 
 !\[![](https://huibee.com/wordpress/wp-content/uploads/2018/07/pity-sympathy-empathy-compassion.png)\](![](https://huibee.com/wordpress/wp-content/uploads/2018/07/pity-sympathy-empathy-compassion.png))
 
@@ -52,9 +55,9 @@ People fight wars for their religions. From where did the notion of promoting yo
 
 And yes, it is not taught. It cannot be taught.
 
-But in the system, where some children are brainwashed while others are taught that guns are really normal, how can they inculcate such simple and basic human qualities. Our society has grown to such an ignorant state of disappointment, that to show-off strength or promote agenda, or whatever the reason is; we are failing to impart basic human knowledge. 
+But in the system, where some children are brainwashed while others are taught that guns are really normal, how can they inculcate such simple and basic human qualities. Our society has grown to such an ignorant state of disappointment, that to show-off strength or promote agenda, or whatever the reason is; we are failing to impart basic human knowledge.
 
-Having debates at a young age, showing the children the right path, teaching human values when young can benefit to such an extent, we have not thought yet out. When children are taught about anything at a really young age, or at least the values of goodness, it will deeply affect them to actually care about the world they live in. 
+Having debates at a young age, showing the children the right path, teaching human values when young can benefit to such an extent, we have not thought yet out. When children are taught about anything at a really young age, or at least the values of goodness, it will deeply affect them to actually care about the world they live in.
 
 \## The Sad Irony
 
@@ -62,9 +65,9 @@ On one hand, people live with a dog their entire life, and consider it as part o
 
 \## Conclusion
 
-Why are humans so selfish about themselves? It is not just about other fellow species, but also about other living beings and the actual planet we live on 🌍. True benevolence is achieved when you care about the other soul, the entire world; not only the soul you met with, but the ones who you do not even know exist. 
+Why are humans so selfish about themselves? It is not just about other fellow species, but also about other living beings and the actual planet we live on 🌍. True benevolence is achieved when you care about the other soul, the entire world; not only the soul you met with, but the ones who you do not even know exist.
 
-I believe, the only way the world can survive the fire we are in, is by being benevolent. And not just with the people we care about, but with everyone. We need radical decisions (some even controversial) to save our civilisation with goodness. The original concept of being benevolent helped in the survival and wellness of ancient civilisations, and we need to bring it back. Being enforced benevolence will not help as well, it has to be something that comes from within. 
+I believe, the only way the world can survive the fire we are in, is by being benevolent. And not just with the people we care about, but with everyone. We need radical decisions (some even controversial) to save our civilisation with goodness. The original concept of being benevolent helped in the survival and wellness of ancient civilisations, and we need to bring it back. Being enforced benevolence will not help as well, it has to be something that comes from within.
 
 \---
 
