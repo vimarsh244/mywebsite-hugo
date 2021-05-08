@@ -4,7 +4,7 @@ author: Vimarsh, Aryan and Aabhas
 date: 2021-05-08T20:00:00+05:30
 url: "/blog/benevolence"
 images:
-- "/uploads/clay-banks-jzayfgopcba-unsplash.jpg"
+- "/uploads/screenshot_23.jpg"
 description: Introspecting the lack of selfless kindness and goodness - benevolence.
   On how benevolence is key to the improvement of the world, how the youth and education
   can play an important role in inculcating benevolence and why it needs to be selfless.
