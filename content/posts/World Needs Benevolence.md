@@ -1,8 +1,8 @@
 ---
-title: ''
-author: ''
-date: 
-url: ''
+title: Benevolence
+author: Vimarsh
+date: 2021-05-08T20:00:00+05:30
+url: "/blog/benevolence"
 images: []
 description: ''
 categories: []
