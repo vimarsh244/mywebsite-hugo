@@ -18,7 +18,7 @@ tags:
 - Benevolence
 
 ---
-**_What is benevolence?_**
+**What is benevolence?**
 
 Well, Google says it’s “the quality of being well-meaning; kindness.” But the strange part is that the Google definition’s card doesn’t show any origin of the word. This suggests that the act of being kind is a centuries-old idea and a highly integrated part of human nature. But along with that, the word usage has dropped significantly over the last two centuries. Well yes, there are synonyms, but the drop in usage can only suggest that we don’t talk about being benevolent as much we should.
 
@@ -32,7 +32,7 @@ Benevolence is not also just about big things, but also about small things in li
 
 A lot of donation efforts and care-taking is posted on a social network. This is definitely a good act and might encourage others to do so too, but if the motive behind doing good things in life is showing it off, then that is a very scary sign. And sadly, a lot of young people are doing just that. Again, doing good for society is highly appreciable, but benevolence is something that should come from within our hearts (preferably souls)
 
-[World-Needs-Benevolence-05ef98732ac0408d840baa52719dfde6#141b5db66c344b879e4c555ea6894667](https://www.notion.so/World-Needs-Benevolence-05ef98732ac0408d840baa52719dfde6#141b5db66c344b879e4c555ea6894667 "World-Needs-Benevolence-05ef98732ac0408d840baa52719dfde6#141b5db66c344b879e4c555ea6894667")
+![](/uploads/clay-banks-jzayfgopcba-unsplash.jpg)
 
 In the ancient times, the kings cared about their citizens, they really did. Their goal was to make their kingdom prosper. There were also great kings like Chandragupta Maurya, who wanted their people to first and foremost stay happy, or Shri Ram, who did not care about his comforts, but about the people. We generally have selfless care for our loved ones, our family (which lacks heavily in other countries), but it creates a bias. Instead of caring just about our citizens, our family, etc. If we cared about the world and the souls, without any discrimination as the family of God, most of the world's prevalent problems (like climate change, diseases, poverty) could be solved.
 
