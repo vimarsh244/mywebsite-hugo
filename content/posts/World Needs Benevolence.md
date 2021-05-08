@@ -16,7 +16,6 @@ tags:
 - Kindness
 - Food for thought
 - Benevolence
-draft: true
 
 ---
 \*_What is benevolence?_*
