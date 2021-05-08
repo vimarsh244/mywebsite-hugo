@@ -63,7 +63,7 @@ But in the system, where some children are brainwashed while others are taught t
 
 In the US, the system of compulsory volunteering in schools, (as per research) leads to retaliations; because being imposed to volunteering, they end up never volunteering again after high school. Similarly, benevolence is something that must be a calling from within and can't be just merely imposed by fear of God (i.e. hell and deeds/karma), because it's about the feeling associated of giving selflessly.
 
-Benevolence shouldn't be inculcated through the fear of education system or fear of God, but _inspired from within._
+> Benevolence shouldn't be inculcated through the fear of education system or fear of God, but _inspired from within._
 
 Having debates at a young age, showing the children the right path, teaching human values when young can benefit to such an extent, we have not thought yet out. When children are taught about anything at a really young age, or at least the values of goodness, it will deeply affect them to actually care about the world they live in.
 
