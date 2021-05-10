@@ -1,6 +1,6 @@
 ---
 title: Innovation - a joke?
-author: Vimarsh
+author: Vimarsh, Aryan & Aabhas
 date: 2021-05-07T18:00:00+05:30
 url: "/blog/innovation-in-india"
 images:
