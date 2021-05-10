@@ -4,7 +4,7 @@ author: Vimarsh, Aryan and Aabhas
 date: 2021-05-10T23:00:00+05:30
 url: "/blog/being-orthodox/"
 images:
-- "/uploads/2021/05/10/optimized-pawel-czerwinski-5qnkrk4-zcy-unsplash.jpg"
+- "/uploads/2021/05/10/optimized-optimized-elias-kauerhof-ce4-1k4mfc-unsplash.jpg"
 description: An analysis of purpose of orthodoxness in society. How being orthodox
   helps take society towards stability. Why we need to keep changing.
 categories:
