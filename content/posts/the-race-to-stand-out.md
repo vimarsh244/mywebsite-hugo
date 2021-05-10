@@ -60,13 +60,15 @@ The key problem with being different from the herd comes in because of the rigid
 
 ### Perception
 
-Say there is a collection of pencils. There are several non-colored pencils and a few special colored ones. The blue pencil thinks, that the red pencil is so different and successful than I am. We see red being used more often, but on trying to become red - we do not see that like red we are also different in our own way from others(i.e. choosing our own colors).
+> "In the **RACE** to _stand out_, we **SUPPRESS** our **TENDENCY** to _stand out_"
+
+Say there is a collection of pencils. There are several non-colored pencils and a few special colored ones. The blue pencil thinks, that the red pencil is so different and successful than I am. We see red being used more often, but on trying to become red - we do not see that like red we are also different in our own way from others. And in this race (to stand out from the other pencils), we strive to become that RED pencil, by _suppressing our own tendency_ to stand out(individuality) i.e. our own colors
 
 ![](/uploads/2021/05/09/red-pencil-in-group-of-other-normal-pencils.jpg)
 
 ## Proven Paths
 
-The basic human tendency is to follow the proven(which we perceive as assured) paths, and finding the most stable possible way out! The desire to have everything simpler and almost the attitude of being spoon-fed (due to an excess of resources at disposal), has lead people to simply not explore and research, and develop the tendency to follow what's been "successful" for others! Why do we try to go for government jobs? - for the financial stability, but this tender to find stability leads to the RAT RACE in UPSC... Rather than learning to being unique(having your own colour), everyone tries and to be the red pencil, and this following of a proven path leads to the rat race to stand out eventually, so rather than the rat race being ended it just merely shifts from one to another. Today there's a rat race for STEM learning, tomorrow it will be for selling MBA to kids. Therefore we need to redefine and rethink our definition of standing out!
+The basic human tendency is to follow the proven(which we perceive as assured) paths, and finding the most stable possible way out! The desire to have everything simpler and almost the attitude of being spoon-fed (due to an excess of resources at disposal), has lead people to simply not explore and research, and develop the tendency to follow what's been "successful" for others! Why do we try to go for government jobs? - for the financial stability, but this tender to find stability leads to the RAT RACE in UPSC... Rather than learning to be unique(having your own color), everyone tries and to be the red pencil, and this following of a proven path leads to the rat race to stand out eventually, so rather than the rat race being ended it just merely shifts from one to another. Today there's a rat race for STEM learning, tomorrow it will be for selling MBA to kids. Therefore we need to redefine and rethink our definition of standing out!
 
 ## How it destroys an "individual"
 
