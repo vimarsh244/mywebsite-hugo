@@ -31,7 +31,7 @@ We do not understand what does it mean to be orthodox. Orthodoxism was born out 
 
 We always want change, but we resist it. This ironical juxtaposition has been observed in many slices of society throughout human history. There are some things that are just better off not doing... we do not go into, that is why rules are made on what is considered evil and suspicious. There are rituals and Ethnocentrism which are highly questionable beliefs. But in their time, people did not know that they were questionable. It was the belief in them that fueled the rise of the bubble. Superstitions are one of the most prevalent ones and that we are familiar with.
 
-![](/uploads/2021/05/10/optimized-elias-kauerhof-ce4-1k4mfc-unsplash.jpg)
+![Image of a very small bubble ready to disrupt an existing bubble rippling in a vast water body](/uploads/2021/05/10/optimized-elias-kauerhof-ce4-1k4mfc-unsplash.jpg)
 
 ## Superstitions
 
@@ -47,7 +47,7 @@ The Language, Cultural and generational gap serve as an amplifier for Orthodox n
 
 The Universe is dynamic. There is no stable equilibrium, Entropy(randomness) is always increasing. We as a society are always in search of an equilibrium, which works for as long as it can. But the fact is that it is not possible to achieve, and even if we achieve the unstable equilibrium, we can sustain only by being orthodox, but it's also vulnerable to change. It is always a cycle. We often dream and target to be in a Utopia, but we know for a fact that the level of Goodness needed is not available. Even in a Utopia, there will always be some people who will not want to stay in the state they are in, and will **change**. The cycle will continue from being in Utopia to becoming selfish and mindless. Rinse and repeat.
 
-![](/uploads/2021/05/10/optimized-chris-lawton-5ihz5whosqe-unsplash.jpg)
+![How even leaves change and repeat the cycle with passage of the year.](/uploads/2021/05/10/optimized-chris-lawton-5ihz5whosqe-unsplash.jpg)
 
 During the Egyptian Era, the civilisation stayed constant, without much changes. They built same type of structure had same kind of proved to work workings and management for almost 3000 Years, but it had it's declined, it wasn't sustainable _forever_.
 
