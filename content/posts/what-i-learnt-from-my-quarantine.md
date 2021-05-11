@@ -19,7 +19,6 @@ tags:
 - COVID-19
 
 ---
-  
 I have been staying at my home since over a year at this point. The official lockdown was announced a few days after cancellation of our board exams on 18th March, 2020. I have not been to school other than some rare occassions and to give exams. Most children alike me have very rarely met their friends in real life. Playing and going outdoors has reduced drastically. As soon as it was considered all over, India got hit with the second wave of COVID-19. It was difficult, this time even worse than the original times and even heavier strain on the healthcare system. Children had no need to go out, and so they didn't.
 
 It was really hard to get comfortable with boredom. Over the last year, all learning has been online, even family meets and friends talk are limited to calls. This has not only hampered the everyone's studies, daily life and the _norms_ but taught some key lessons as well.
@@ -48,7 +47,7 @@ The only picture I have which is not of a lizard roaming outside.
 
 ## What did I learn
 
-When I was young, I used to be amazed by each of the very small things - be it getting a dairy milk, or finding out some really cool thing like a sea shell. I always used to read Safari magazine and stark in amazement of how beautiful the world is, all of it I seemingly was forgetting. It was a realisation that I was loosing myself. I remember seeing sin and cos and square brackets and standing lines in my elder cousins book, and always was confused on what it meant - thought of it like it was some other realm.   
+When I was young, I used to be amazed by each of the very small things - be it getting a dairy milk, or finding out some really cool thing like a sea shell. I always used to read Safari magazine and stark in amazement of how beautiful the world is, all of it I seemingly was forgetting. It was a realisation that I was loosing myself. I remember seeing sin and cos and square brackets and standing lines in my elder cousins book, and always was confused on what it meant - thought of it like it was some other realm.  
 When I first learnt about trigonometry then in 8th - 9th class, I was blown away. I was so happy that now I know about all of it. But nowadays, that feeling does not happen. I remember using old RC circuits to make a custom janky remote control car and used to be blown away, on what I could achieve when I was 11. But all of it is now on the verge of dissapearence, and I want to bring it back. I want to observe the world and try to find happiness in whatever I can, like even eating pasta. (14 days without any tasty fast food was difficult).
 
 As I was grounded, I still used to hear disheartening news of so many of my friends and relatives, and was filled with negetivity on reading Twitter, Reddit, YouTube, even TOI. Moving forwards, I want to foster true principles of benevolence, while also trying and learning to fight negetivity. Whatspap messages with conspiracy theories didn't help eighther.
@@ -64,3 +63,7 @@ I did test positive for SARs-Cov-2 three days later, and completed my 14 days of
 ## Conclusion
 
 People now wish that things go back to normal, like they used to be. But my belief is that we should not just be like what we were. We have evolved. Learnt so many new things, new lessons, the value of little things in life. I wish as we move back to living like we used to (hopefully when the second wave gets demolished), I (and society as a whole) do not forget the values learnt. Hopefully we **do not** go back to that fast-paced life focussed on consumerism. 2020 for all of us was like a break, we got more time to spend with family, think about ourselves, do good deeds. When you are alone, you value stuff even more. I wish to not forget the things learnt, once back to "normal".
+
+***
+
+Shoutout to [Aryan](https://aryantiwari.com/?utm_source=vimarsh) for helping me edit this.
