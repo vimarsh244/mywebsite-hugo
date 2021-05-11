@@ -17,7 +17,6 @@ tags:
 - expirience
 - coronavirus
 - COVID-19
-draft: true
 
 ---
   
