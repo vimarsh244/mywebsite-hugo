@@ -58,7 +58,7 @@ Simply download your favourite SSH client utility, I prefer [Putty](https://www.
 
 It is better to use key exchange for authentication, but I believe with a really strong password and after changing default SSH port, it is not that big of a concern (at least for me).
 
-_On Raspberry Pi_
+_On Raspberry Pi (Linux)_
 
 I also do have several services running on my Raspberry Pis and because my ISP has put me behind a [NAT](https://en.wikipedia.org/wiki/Network_address_translation "Wikipedia Page for NAT"), I am unable to access it from outside, hence used this technique.
 
