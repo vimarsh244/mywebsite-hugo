@@ -19,9 +19,9 @@ tags:
 - SSH
 
 ---
-Sometimes due to serveral reasons as mentioned above along with some firewall restrictions, you cannot directly port forward your application. There are several tools like [ngrok](https://ngrok.com/), [Cloudflare Argo Tunnel](https://www.cloudflare.com/en-in/products/argo-tunnel/) that try to do similar things. But eighther its setup requires a lot of setup or it is that I wanted to not rely on any such service.
+Sometimes due to several reasons as mentioned above along with some firewall restrictions, you cannot directly port forward your application. There are several tools like [ngrok](https://ngrok.com/), [Cloudflare Argo Tunnel](https://www.cloudflare.com/en-in/products/argo-tunnel/) that try to do similar things. But either its setup requires a lot of setup or it is that I wanted to not rely on any such service.
 
-In this instance, I had a windows server at home which I wanted to be accessible from anywhere so that I could access. I tried 10-15 days of exclusively using it as a remote machine and it was a weird expirience nonetheless (blog post to come soon).
+In this instance, I had a windows server at home which I wanted to be accessible from anywhere so that I could access it. I tried 10-15 days of exclusively using it as a remote machine and it was a weird experience nonetheless (blog post to come soon).
 
 I decided to finally get a remote server on some reliable cloud provider and use SSH reverse tunneling to forward all my RDP traffic.
 
@@ -33,7 +33,7 @@ I decided to finally get a remote server on some reliable cloud provider and use
 
 **Step 1**
 
-The first step is to get a remote sever with a publicly accessible IP (preferably static, atleast in my case). I also wanted the cost to be as minimal as possilbe with the highest uptime. Hence, I decided to use [Digital Ocean](https://m.do.co/c/32b907edbd54 "Digital Ocean") (referal link - get $100 to use for 2 months) because of simple and transperent pricing as regional datacentre.
+The first step is to get a remote sever with a publicly accessible IP (preferably static, at least in my case). I also wanted the cost to be as minimal as possible with the highest uptime. Hence, I decided to use [Digital Ocean](https://m.do.co/c/32b907edbd54 "Digital Ocean") (referral link - get $100 to use for 2 months) because of simple and transparent pricing as regional datacenter.
 
 For more simplicity (but definitely a huge security issue) you could allow all traffic in firewall configuration. DO NOT DO IT. plz
 
@@ -56,18 +56,18 @@ Simply download your favourite SSH client utility, I prefer [Putty](https://www.
 
     .\putty.exe -ssh -R 12345:localhost:3389 root@<ip address> -pw <Your password>
 
-It is better to use key exchange for authentiation, but I believe with a really strong password and after changing default SSH port, it is not that big of a concern (atleast for me).
+It is better to use key exchange for authentication, but I believe with a really strong password and after changing default SSH port, it is not that big of a concern (at least for me).
 
 _On Raspberry Pi_
 
-I also do have serveral services running on my Raspberry Pis and because my ISP has put me behind a [NAT](https://en.wikipedia.org/wiki/Network_address_translation "Wikipedia Page for NAT"), I am unable to access it from outside, hence used this technique.
+I also do have several services running on my Raspberry Pis and because my ISP has put me behind a [NAT](https://en.wikipedia.org/wiki/Network_address_translation "Wikipedia Page for NAT"), I am unable to access it from outside, hence used this technique.
 
     ssh -R 5000:localhost:8000 root@<ip address> -pw <password>
 
-**My Expirience**
+**My Experience**
 
-Ngrok and Cloudflare argo tunnel (along with Cloudflare [access](https://www.cloudflare.com/en-in/teams/access/)) are probably a better easy to use solutions, but biggest problem with such solutions is eighther they do not allow traffic like that of remote desktop connection or even UDP for that matter. Also, if there is a lot of traffic flowing through, the costs can rise pretty quickly and hence, would suggest this.
+Ngrok and Cloudflare argo tunnel (along with Cloudflare [access](https://www.cloudflare.com/en-in/teams/access/)) are probably a better easy to use solutions, but biggest problem with such solutions is they do not allow traffic like that of remote desktop connection or even UDP for that matter. Also, if there is a lot of traffic flowing through, the costs can rise pretty quickly and hence, would suggest this.
 
 There are definitely better user friendly and arguably even more stable OSS like [Boring Proxy](https://github.com/boringproxy/boringproxy "Boring Proxy Github"), which I have tried and really liked. But this works for me now and works really well. If there isn't a random internet outage I have easily got 100% uptime, which is really good.
 
-This might be a very non-polished solution, but I enjoy using it and it works for me. Also I can host several services on just one droplet. With nginx even using domains is easily possible without needing of different ports for all services. Also if you are testing a new project it is just super easy to make it available without fiddeling with router setings everytime.
+This might be a very non-polished solution, but I enjoy using it and it works for me. Also I can host several services on just one droplet. With nginx even using domains is easily possible without the need of different ports for all services. Also if you are testing a new project it is just super easy to make it available without fiddling with router settings every time.
