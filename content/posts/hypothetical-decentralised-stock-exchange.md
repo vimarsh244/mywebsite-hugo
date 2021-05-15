@@ -27,9 +27,7 @@ Decentralization or decentralisation is the process by which the activities of a
 
 **What is an Exchange?**
 
-An exchange is a marketplace where cryptocurrency, securities, commodities, derivatives, bonds and other financial instruments are traded. The core function of an exchange is to ensure fair and orderly trading and the efficient dissemination of price information for any securities trading on that exchange.
-
-([source](https://kpatel1.medium.com/decentralized-stock-exchange-in-5-questions-215bc9f9d5d5))
+An exchange is a marketplace where cryptocurrency, securities, commodities, derivatives, bonds and other financial instruments are traded. The core function of an exchange is to ensure fair and orderly trading and the efficient dissemination of price information for any securities trading on that exchange. ([source](https://kpatel1.medium.com/decentralized-stock-exchange-in-5-questions-215bc9f9d5d5))
 
 A Decentralised Stock Exchange will enable all the investors to directly trade with each other without any need for a central institution to approve ownership of the stock.
 
