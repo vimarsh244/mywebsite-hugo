@@ -24,7 +24,7 @@ Self-expectation is a strong internal belief that something should happen or be 
 
 I could achieve my goal and stay motivated. I will have an incentive to always try and do better, slowly increasing the bar of the goals to achieve. We always aim to be the perfect version of ourselves. Sometimes when we set a higher, probably unachievable expectation and do not fulfill it, the contentment we get from achieving it is drastically reduced. If you consistently achieve that "self" expectation, the satisfaction level is reduced. Let us take an example: You won a swimming championship, and are super happy with it. Slowly you start increasing your expectation to compete at an even larger stage and achieve bigger goals. Even if you consistently achieve those, the happiness will reduce for the same quality of feats.
 
-$$\[self\]expectation ∝ 1/(joy)$$
+**\[self\]expectation ∝ 1/(joy)**
 
 We often expect a lot from ourselves, from studying for 10 hours a day to completing, sometimes which becomes toxic, not only for you but people in your surroundings. Such unreasonable expectations are good to have, but if you are motivated to do it - it is important to not burn out or disturb others in achieving your goals.
 
