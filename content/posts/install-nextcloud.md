@@ -75,6 +75,8 @@ As you might have guessed, you can install several first party and other third p
 
 Nextcloud is really enjoyable and easy to use software. The learning curve is also pretty low if just getting into self hosting and reducing relliance on third party tech giants. Installing apps is super easy and it has an actively growing community with now even proper support for Raspberry Pis (a lot of new apps supporting this).
 
-I have been pretty happy with my Nextcloud configuration. Also, its android app is amazing and the sync on Windows work flawlessly. File sharing is also available with multiple links for same folder (some features not even available on Google Drive, Onedrive, etc.) Use it everyday and the uptime has been crazy - 100% never had to even reboot for any update or anything ever since I got it up.
+I have been pretty happy with my Nextcloud configuration. Also, its android app is amazing and the sync on Windows work flawlessly. File sharing is also available with multiple links for same folder (some features not even available on Google Drive, Onedrive, etc.) Using it everyday and the uptime has been crazy - 100% never had to even reboot for any update or anything ever since I got it up.
 
 ![Nextcloud Uptime](/uploads/2021/05/17/nextcloud-install.png)
+
+Would 10/10 recommend especially if interested in gaining back some control from Google, Microsoft, etc. Also, a solid solution for a small to medium enterprise wanting to host their own services - secure and private.
