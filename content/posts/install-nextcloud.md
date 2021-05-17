@@ -1,5 +1,5 @@
 ---
-title: Gaining back control of digital life - Nextcloud
+title: 'Nextcloud - Gaining back control of digital life '
 author: Vimarsh
 date: 2021-05-16T23:00:00+05:30
 url: "/blog/nextcloud"
