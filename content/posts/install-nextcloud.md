@@ -1,8 +1,8 @@
 ---
-title: Install Nextcloud
+title: Gaining back control of digital life - Nextcloud
 author: Vimarsh
 date: 2021-05-16T23:00:00+05:30
-url: "/blog/installing-nextcloud"
+url: "/blog/nextcloud"
 images:
 - "/uploads/2021/05/17/optimized-dallas-reedy-f2htc_cf4jo-unsplash.jpg"
 description: Nextcloud is one of the most popular apps to regain control of your digital
