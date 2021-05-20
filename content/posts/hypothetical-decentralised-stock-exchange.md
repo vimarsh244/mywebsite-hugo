@@ -1,7 +1,7 @@
 ---
 title: Hypothetical Decentralised stock exchange
 author: Vimarsh
-date: 2021-05-15T23:00:00+05:30
+date: 2021-05-14T23:00:00+05:30
 url: "/blog/decentralised-stock-exchange"
 images:
 - "/uploads/2021/05/15/optimized-alec-favale-9li7kvwxvx0-unsplash-1.jpg"
