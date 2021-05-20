@@ -3,7 +3,8 @@ title: The Ethics of AI
 author: Vimarsh
 date: 2021-05-20T23:00:00+05:30
 url: "/blog/ethics-of-ai"
-images: []
+images:
+- "/uploads/2021/05/20/optimized-gertruda-valaseviciute-xmobps6v_gy-unsplash.jpg"
 description: Should humans open the Pandora box for the AI, or it do that by itself.
   A reflection on AI's current ethic standards and future implications. A deep dive
   into the ethics of how AI can and will affect our future.
