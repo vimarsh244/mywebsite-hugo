@@ -1,7 +1,7 @@
 ---
 title: Exceeding Expectations - Self Expectations the driving factor
 author: Vimarsh
-date: 2021-05-14T23:59:00+05:30
+date: 2021-05-15T23:59:00+05:30
 url: "/blog/self-expectation"
 images:
 - "/uploads/2021/05/15/optimized-daria-nepriakhina-th7eyi6p23s-unsplash-1.jpg"
