@@ -87,3 +87,5 @@ We just need to make sure that the tech that once made to help doesn't fall into
 ***
 
 Thanks to [Aryan](https://aryantiwari.com/blog/?utm_source=vimarsh "Aryan's website") and [Krish](https://www.instagram.com/krish.patellll/ "Krish's Instagram") for reading the draft, giving inputs and helping in edit.
+
+Update on 21st May 2021: [Researchers found a bias](https://www.vice.com/en/article/m7evmy/googles-new-dermatology-app-wasnt-designed-for-people-with-darker-skin "Article by vice.com on the topic") in Google's Skin condition identifier app. The algorithm was developed based on training data with less than 4% dark skin types. ([tweet](https://twitter.com/AdeAdamson/status/1394761699329196033))
