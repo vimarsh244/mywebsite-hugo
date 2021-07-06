@@ -21,11 +21,13 @@ We use Vercel to serve the website. You can find Vercel's Privacy Policy here: [
 
 We use Oracle Cloud Infrastructure to self-host analytics service and commenting platform. You can find Oracle’s Privacy Policy here: https://www.oracle.com/in/legal/privacy/
 
+Currently the comments are not working and are disabled!
+
 ## What personal data we collect and why we collect it
 
 ### Analytics
 
-We use self-hosted Plausible Analytics for logging basic info. The open-source software is GDPR compliant and no PII is stored, without any use of cookies. The data is also stored in Switzerland based servers. Tracking script: https://z.vimarsh.info/js/plausible.js
+We use self-hosted Plausible Analytics for logging basic info. The open-source software is GDPR compliant and no PII is stored, without any use of cookies. The data is also stored in Switzerland based servers. Tracking script: https://cdn.vimarsh.info/app.js
 
 ### Comments
 
@@ -70,4 +72,12 @@ If you have left comments, you can request to receive an exported file of the pe
 
 ***
 
-Last updated: April 19, 2021
+## Want to be tracked?
+
+If you click on allow permission to be tracked, the website will load the Google Analytics Tracking script and track your visits on this website. We might use that data to analyze data and update our content for better user expirience and other purposes.
+
+We have still disable sharing of this website data with Google services for ad personalization. By clicking allow, you agree to the use of cookies and loading of third party service. You can find Google's privacy policy [here](https://policies.google.com/privacy "Google's privacy Policy"). If you clicked on allow but later decide this tracking thing is bad - you can opt out of Google analytics data collection across entire browser by following [these](https://tools.google.com/dlpage/gaoptout) instructions.
+
+***
+
+Last updated: July 6, 2021
