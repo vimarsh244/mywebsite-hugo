@@ -58,7 +58,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: Vimarsh
-        Content: A 16 Y/o Maker & Learner.
+        Content: A 17 Y/o Maker & Learner.
 
     socialIcons: # optional
         - name: github
