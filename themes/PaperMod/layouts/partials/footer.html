@@ -1,14 +1,66 @@
 <footer class="footer">
+    
+<!--   Start google analytics consent   -->
+    
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.addEventListener('load', function(){
+  window.cookieconsent.initialise({
+   revokeBtn: "<div class='cc-revoke'></div>",
+   type: "opt-in",
+   position: "bottom-right",
+   theme: "classic",
+   palette: {
+       popup: {
+           background: "#000",
+           text: "#fff"
+        },
+       button: {
+           background: "#fd0",
+           text: "#000"
+        }
+    },
+   content: {
+       message: "Do you want to be tracked?",
+       link: "Details",
+       allow: "Yes",
+       deny: "No",
+       href: "https://www.vimarsh.info/privacy/#want-to-be-tracked"
+    },
+    onInitialise: function(status) {
+      if(status == cookieconsent.status.allow) myScripts();
+    },
+    onStatusChange: function(status) {
+      if (this.hasConsented()) myScripts();
+    }
+  })
+});
+
+function myScripts() {
+
+   // Paste here your scripts that use cookies requiring consent. See examples below
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4VC3D3CTK7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4VC3D3CTK7');
+</script>
+  
+
+}
+</script>
+    
+<!-- Eng Google Analytics consent -->
+    
     This work is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
-<!--     {{- if .Site.Copyright }}
-    <span>{{ .Site.Copyright | markdownify }}</span>
-    {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></span>
-    {{- end }} -->
     <span> | </span>
     <span>Powered by <a href="https://www.vimarsh.info/blog/Why-I-switched-away-from-Wordpress/" rel="noopener noreferrer" target="_blank">Hugo</a></span>
     
-    <!-- <span>Theme <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a></span> -->
 </footer>
 
 {{- if (not .Site.Params.disableScrollToTop) }}
