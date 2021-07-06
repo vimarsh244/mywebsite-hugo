@@ -8,7 +8,7 @@ description: 'A 16 Y/o Maker &amp; Learner'
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Vimarsh
-    description: "A 16 Y/o Maker &amp; Learner"
+    description: "A 17 Y/o Maker &amp; Learner"
     keywords: [Blog, Learner, Maker, Tech]
     author: Vimarsh
     # author: ["Me", "You"] # multiple authors
