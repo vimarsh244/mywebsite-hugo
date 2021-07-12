@@ -28,6 +28,7 @@ fields:
   label: tags
 pages:
 - content/posts/World Needs Benevolence.md
+- content/posts/are-humans-turing-complete.md
 - content/posts/byelinguals-the-story-of-diluting-cultures.md
 - content/posts/flat-earthers.md
 - content/posts/how-to-access-your-local-server-without-port-forwarding.md
