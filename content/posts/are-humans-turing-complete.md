@@ -18,7 +18,7 @@ tags:
 draft: true
 
 ---
-## What are Turing Machines?
+**What are Turing Machines?**
 
 A turing machine developed by Alan Turing is considered as the most basic form of Computer which can be simlutated to replicate its logic .
 
@@ -26,6 +26,24 @@ In theory, a Turing machine consists of an infinite tape and a tape head. The ta
 
 [Turing completeness](https://en.wikipedia.org/wiki/Turing_completeness "Turing completeness") is the ability for a system of instructions to simulate a Turing machine. Almost all programming languages are Turing complete if the limitations of finite memory are ignored.
 
-**The Halting Problem**
+_The Halting Problem_
 
-<iframe width="1920" height="937" src="https://www.youtube-nocookie.com/embed/macM_MtS_w4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Computerphile Video](https://www.youtube-nocookie.com/embed/macM_MtS_w4)
+
+**References**
+
+[http://web.mit.edu/asf/www/PopularScience/Friedman_BrainsAndTuringMachines_2002.pdf](http://web.mit.edu/asf/www/PopularScience/Friedman_BrainsAndTuringMachines_2002.pdf "Fundnamental distinction between brains and Turing Machines")
+
+[https://www.npr.org/sections/13.7/2011/09/19/140599268/minds-and-machines-the-limits-of-turing-complete-machines](https://www.npr.org/sections/13.7/2011/09/19/140599268/minds-and-machines-the-limits-of-turing-complete-machines "https://www.npr.org/sections/13.7/2011/09/19/140599268/minds-and-machines-the-limits-of-turing-complete-machines")
+
+[https://www.cs.bham.ac.uk/research/projects/cogaff/sloman.turing.irrelevant.pdf](https://www.cs.bham.ac.uk/research/projects/cogaff/sloman.turing.irrelevant.pdf "https://www.cs.bham.ac.uk/research/projects/cogaff/sloman.turing.irrelevant.pdf")
+
+[https://www.ijert.org/research/an-analysis-of-artificial-intelligence-in-machines-with-turing-machine-IJERTV3IS042388.pdf](https://www.ijert.org/research/an-analysis-of-artificial-intelligence-in-machines-with-turing-machine-IJERTV3IS042388.pdf "https://www.ijert.org/research/an-analysis-of-artificial-intelligence-in-machines-with-turing-machine-IJERTV3IS042388.pdf")
+
+[https://becominghuman.ai/we-are-all-turing-machines-ad82c3dd9e50](https://becominghuman.ai/we-are-all-turing-machines-ad82c3dd9e50 "https://becominghuman.ai/we-are-all-turing-machines-ad82c3dd9e50")
+
+[https://medium.com/the-spike/yes-the-brain-is-a-computer-11f630cad736](https://medium.com/the-spike/yes-the-brain-is-a-computer-11f630cad736 "https://medium.com/the-spike/yes-the-brain-is-a-computer-11f630cad736")
+
+[https://en.wikipedia.org/wiki/Turing_completeness](https://en.wikipedia.org/wiki/Turing_completeness "Wikipedia - Turing Completeness")
+
+[https://en.wikipedia.org/wiki/Halting_problem](https://en.wikipedia.org/wiki/Halting_problem "Wikipedia - Halting problem")
