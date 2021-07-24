@@ -1,7 +1,7 @@
 ---
 title: Are humans Turing Complete?
 author: Vimarsh
-date: 2021-07-14T00:00:00+05:30
+date: 2021-07-25T00:00:00+05:30
 url: "/blog/are-humans-turing-complete"
 images:
 - "/uploads/2021/07/12/justus-menke-qdmst1qgo1m-unsplash-min.jpg"
