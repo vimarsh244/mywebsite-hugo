@@ -1,18 +1,18 @@
-<!-- Below is the form using formspree.io to collect email and name for Newsletter -->
-<br>
-<!-- using chillipepper with my gmail ID to collect newsletter signups -->
-<!-- <p align="center">
-<iframe loading="lazy"
- width="80%" 
- height="300" 
- style="border:0px solid black;" 
- src="https://chilipepper.io/form/insane-yellowgreen-fresnos-fb7d982b-daac-421e-9109-b25faa0c0715?theme=dark"
- >
-</iframe> -->
-<!-- Using Typeform for now.. will think of something else later -->
-<a class="typeform-share button" href="https://form.typeform.com/to/PMwZ3nHi?typeform-medium=embed-snippet" data-mode="drawer_right" style="display:inline-block;text-decoration:none;background-color:#f5f5f5;color:#0000008F;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:19px;line-height:47.5px;text-align:center;margin:0;height:47.5px;padding:0px 31px;border-radius:23px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-hide-footer="true" target="_blank">Subscribe to my newsletter </a> <script async defer> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
-
-</p>
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/vimarsh"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/vimarsh', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="hidden" value="1" name="embed" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
 
 <!-- Below is for the social share icons -->
 {{- $pageurl := .Permalink }}
