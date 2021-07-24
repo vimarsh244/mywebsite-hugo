@@ -30,6 +30,16 @@ _The Halting Problem_
 
 [Computerphile Video](https://www.youtube-nocookie.com/embed/macM_MtS_w4)
 
+**The Origin**
+
+**How does life function?**
+
+**Infinite Memory**
+
+Let us consider this universe to function according to a complex super difficult and massive equation. What we figure out that equation somehow. Will the graph end or be continuining forever? - We don't know. But it does mean that we won't need infinite memory. Considering that equation is not infinitely long we can store it in our finite memory provided by our brain or on inanimate objects. 
+
+It might take forever and billions of years, but then it will be possible to know the exact events that would happen or have happened at any point any time. That is what I call enlightement.
+
 **References**
 
 [http://web.mit.edu/asf/www/PopularScience/Friedman_BrainsAndTuringMachines_2002.pdf](http://web.mit.edu/asf/www/PopularScience/Friedman_BrainsAndTuringMachines_2002.pdf "Fundnamental distinction between brains and Turing Machines")
