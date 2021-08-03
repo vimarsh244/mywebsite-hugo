@@ -16,7 +16,6 @@ tags:
 - turing
 - opinion
 - anecdotal
-draft: true
 
 ---
 ## **What are Turing Machines?**
