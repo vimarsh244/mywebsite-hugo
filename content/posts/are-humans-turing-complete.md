@@ -20,7 +20,7 @@ tags:
 ---
 ## **What are Turing Machines?**
 
-A Turing machine, developed by Alan Turing, is considered the most basic form of Computer which can be simulated to replicate its logic.
+A Turing machine, developed by Alan Turing, is considered the most basic form of Computer which can be simulated to replicate any logic.
 
 In theory, a Turing machine consists of an infinite tape and a tape head. The tape consists of infinitely many squares, where every square is either empty or can store a symbol. The tape head is an active component that: reads the symbol on the square, follows a set of rules to determine whether to change the symbol on the square, determines whether to move left or right and repeats this procedure until the outcome of the rules says it should halt.
 
@@ -31,6 +31,8 @@ In theory, a Turing machine consists of an infinite tape and a tape head. The ta
 The halting problem states that given a program or algorithm, it is impossible to know if it will halt or not. Can we definitively answer if the program will stop or not? This is an undecidable problem because we cannot have an algorithm that tells us whether a given program will halt or not in a generalized way i.e. by having a specific program/algorithm. In general, we can’t always know that’s why we can’t have a general algorithm.
 
 The best possible way is to run the program and see whether it halts or not. In this way, for many programs, we can see that it will sometimes loop and always halt.
+
+All Turing machines have this problem.
 
 More Info: [1](https://www.youtube.com/watch?v=macM_MtS_w4 "Turing & The Halting Problem - Computerphile [youtube]") / [2](https://www.youtube.com/watch?v=HeQX2HjkcNo "Veratasium [youtube] - Math has a fatal flaw")
 
@@ -46,7 +48,7 @@ At the smallest of scales, it's just molecules, atoms and quarks interacting acc
 
 All life forms (including viruses) have a tape type record referred to as DNA or RNA. Let's imagine a setup where a small cycle of molecules is interacting with a larger cycle of molecules. That is two Turing machines with their respective tape heads interacting and functioning together. The rules are the chemical processes and reactions that would occur and create different types of motion, reactions.
 
-Below is an image of a ribosome. It is the primary unit to keep the body functions.. A small slice of DNA (called mRNA) goes through it where it is duplicated or used to create different structures and processes for the perfect functioning of the system as a whole.
+Below is an image of a ribosome. It is the primary unit of cell which keeps it functioning. A small slice of DNA (called mRNA) goes through it where it is duplicated or used to create different structures and processes for the perfect functioning of the system as a whole.
 
 ![Ribosome mRNA translation. (commons.wikimedia.org)](https://miro.medium.com/max/700/1*LhaO8V-zOU3zNLL88uXVtg.png "Ribosome functioning")
 
@@ -70,7 +72,7 @@ We could also be different. We could just be analogue computers and it is just i
 
 **The End of everything**
 
-Death is inevitable - we know that for sure. Does that mean that is where this machine that we are Halts? Did we solve the halting problem? If it is that our halting is decided and destined which ends in death - we are not Turing machines. Or are we?
+Death is inevitable - we know that for sure. Does that mean that it is the outcome of the system which is fixed to halt and not loop? Did we solve the halting problem? If it is that our halting is decided and destined which ends in death - we are not Turing machines. Or are we?
 
 First off, the Halting problem still applies; we are just based on years of knowing life know that it ends. In the future, it could even be possible that we can upload our brains to a computer that lives forever. What about [viruses](https://www.newscientist.com/question/are-viruses-alive/ "Are Viruses Alive? - New Scientist")? can they be Turing machines?
 
