@@ -21,7 +21,7 @@ draft: true
 ---
 ## **What are Turing Machines?**
 
-A Turing machine developed by Alan Turing is considered the most basic form of Computer which can be simulated to replicate its logic.
+A Turing machine, developed by Alan Turing, is considered the most basic form of Computer which can be simulated to replicate its logic.
 
 In theory, a Turing machine consists of an infinite tape and a tape head. The tape consists of infinitely many squares, where every square is either empty or can store a symbol. The tape head is an active component that: reads the symbol on the square, follows a set of rules to determine whether to change the symbol on the square, determines whether to move left or right and repeats this procedure until the outcome of the rules says it should halt.
 
@@ -29,7 +29,7 @@ In theory, a Turing machine consists of an infinite tape and a tape head. The ta
 
 **The Halting Problem**
 
-The halting problem states that given a program or algorithm it is impossible to know if it will halt or not? Can we definitively answer if the program will stop or not? This is an undecidable problem because we cannot have an algorithm that tells us whether a given program will halt or not in a generalized way i.e by having a specific program/algorithm. In general, we can’t always know that’s why we can’t have a general algorithm.
+The halting problem states that given a program or algorithm, it is impossible to know if it will halt or not. Can we definitively answer if the program will stop or not? This is an undecidable problem because we cannot have an algorithm that tells us whether a given program will halt or not in a generalized way i.e. by having a specific program/algorithm. In general, we can’t always know that’s why we can’t have a general algorithm.
 
 The best possible way is to run the program and see whether it halts or not. In this way, for many programs, we can see that it will sometimes loop and always halt.
 
