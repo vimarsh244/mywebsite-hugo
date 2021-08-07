@@ -72,12 +72,4 @@ If you have left comments, you can request to receive an exported file of the pe
 
 ***
 
-## Want to be tracked?
-
-If you click on allow permission to be tracked, the website will load the Google Analytics Tracking script and track your visits on this website. We might use that data to analyze data and update our content for better user expirience and other purposes.
-
-We have still disable sharing of this website data with Google services for ad personalization. By clicking allow, you agree to the use of cookies and loading of third party service. You can find Google's privacy policy [here](https://policies.google.com/privacy "Google's privacy Policy"). If you clicked on allow but later decide this tracking thing is bad - you can opt out of Google analytics data collection across entire browser by following [these](https://tools.google.com/dlpage/gaoptout) instructions.
-
-***
-
-Last updated: July 6, 2021
+Last updated: August 7, 2021
