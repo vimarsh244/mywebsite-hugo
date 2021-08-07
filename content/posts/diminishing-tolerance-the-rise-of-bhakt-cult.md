@@ -57,7 +57,7 @@ Often the problem is following such Cults leads to almost a herd mentality of bl
 
 Probably we could try to solve this by constantly redefining our bubble or by simply retaining our rationale even believing in some ideologies and have the courage to disagree when feeling like, and most importantly by not being intolerant and ignorant rather accepting our vulnerability, and being ready to let our bubble of [ego](https://aryantiwari.com/egos/) burst (silently).
 
-![Game of Chess](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bd703c2b-ac87-41fc-a837-46dabcf51e43/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210807%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210807T184520Z&X-Amz-Expires=86400&X-Amz-Signature=cc20e8972e918e0b159d3d7a97cd44159301dd52929b5cf313f5d8d7ebf9a001&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22 "We vs They")
+![Game of Chess](/uploads/2021/08/07/game-of-chess.png "We vs They")
 
 ## How can you fix it - Pringles, anyone?
 
@@ -69,4 +69,4 @@ The difference of opinions is the cause of animosity, but there could be co-exis
 
 There is no We. No Them. But only a common collective entity that encompasses **Us** all.
 
-![Beutiful Mountain and Ocean structure](https://cdn.discordapp.com/attachments/719836611625353279/873620539367891044/photo-1502646736508-514e1d5de6f1.png)
+![](/uploads/2021/08/07/mountains-and-ocean-structure.png)
