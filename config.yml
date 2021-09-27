@@ -1,4 +1,4 @@
-baseURL: https://www.vimarsh.info/
+baseURL: https://mywebsite-hugo.vercel.app/
 languageCode: en-us
 title: Vimarsh
 theme: "PaperMod"
