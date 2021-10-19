@@ -34,7 +34,9 @@ Currently, [Oracle Cloud](https://www.google.com/url?q=https%3A%2F%2Fwww.oracle.
 You can follow an [amazing guide on their website](https://www.google.com/url?q=https%3A%2F%2Fcaprover.com%2Fdocs%2Fget-started.html&sa=D&sntz=1&usg=AFQjCNFIjt3yibot8IVCIagpSJcAl-USKg) to quickly get started, or **expand the Steps** below.
 
 ## Steps
-
+<details>
+  <summary>Click to expand!</summary>
+ 
 I would recommend Ubuntu as the distro of choice because most docker images function best with it. Official recomendation is for Ubuntu 18.04 but for me 20.04 has worked fine.
 
 Step 0 : SSH into the machine (VM or bare-metal and follow these instructions)
@@ -51,11 +53,11 @@ To [Install Docker](https://www.google.com/url?q=https%3A%2F%2Fdocs.docker.com%2
     	curl \
     	gnupg \
     	lsb-release
-
+    
     curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-
+    
     echo \"deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \$(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-
+    
     sudo apt-get update
     
     sudo apt-get install docker-ce docker-ce-cli containerd.io
@@ -95,6 +97,8 @@ Then, run
     caprover serversetup
 
 and follow the instructions shown.
+
+</details>
 
 CapRover should be available on the domain name you configured it with.
 
