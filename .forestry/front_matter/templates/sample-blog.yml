@@ -28,6 +28,7 @@ fields:
   label: tags
 pages:
 - content/notes/notes.md
+- content/notes/quickly-and-easily-install-nextcloud.md
 - content/posts/World Needs Benevolence.md
 - content/posts/are-humans-turing-complete.md
 - content/posts/byelinguals-the-story-of-diluting-cultures.md
