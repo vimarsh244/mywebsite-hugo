@@ -3,7 +3,6 @@ author = "Vimarsh"
 categories = ["tech", "tutorial"]
 date = 2021-10-16T18:30:00Z
 description = ""
-draft = true
 images = ["/uploads/2021/10/19/raspberry-pi-1719219_960_720.jpg"]
 tags = ["tech", "self hosting"]
 title = "The Best way to self host apps"

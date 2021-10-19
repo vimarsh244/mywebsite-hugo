@@ -38,7 +38,7 @@ Setting username and password for admin user followed by setting up trusted doma
     
     sudo nextcloud.occ config:system:set trusted_domains 1 --value=www.vimarsh.info
 
-### Remove get your own Nextcloud server branding from footer
+### Remove 'get your own Nextcloud server' branding from footer
 
 goto:  _/var/snap/nextcloud/21796/nextcloud/config_
 
