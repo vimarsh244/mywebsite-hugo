@@ -3,7 +3,6 @@ author = "Vimarsh"
 categories = ["tutorial"]
 date = ""
 description = "Simple instructions to install NextCloud"
-draft = true
 images = []
 tags = []
 title = "Quickly and easily install Nextcloud"
