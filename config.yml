@@ -1,106 +1,93 @@
+---
 baseURL: https://mywebsite-hugo.vercel.app/
 languageCode: en-us
-title: Vimarsh
-theme: "PaperMod"
-description: 'A 16 Y/o Maker &amp; Learner'
-
-
+title: Vimarsh Shah
+theme: PaperMod
+description: A 16 Y/o Maker &amp; Learner
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Vimarsh
-    description: "A 17 Y/o Maker &amp; Learner"
-    keywords: [Blog, Learner, Maker, Tech]
-    author: Vimarsh
-    # author: ["Me", "You"] # multiple authors
-    images: ["/uploads/profilepic.png"]
-    DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
-    disableThemeToggle: false
-
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    disableSpecial1stPost: false
-    disableScrollToTop: false
-    comments: true
-    hidemeta: false
-    hideSummary: false
-    showtoc: false
-    tocopen: false
-
-    assets:
-        # disableHLJS: true # to disable highlight.js
-        disableFingerprinting: true
-        
-
-    # home-info mode
-    homeInfoParams:
-        Title: Vimarsh
-        Content: A 17 Y/o Maker & Learner.
-
-    socialIcons: # optional
-        - name: github
-          url: "https://github.com/vimarsh244"
-        - name: twitter
-          url: "https://twitter.com/vimarsh244"
-        - name: email
-          url: "mailto:hi@vimarsh.info"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/vimarshshah/"
-
-    ShowPostNavLinks: true
-
-    cover:
-        hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: true # hide on single page
-
-    #editPost:
-    #    URL: "https://github.com/<path_to_repo>/content"
-    #    Text: "Suggest Changes" # edit text
-    #    appendFilePath: true # to append file path to Edit link
-
-    # for search
-    # https://fusejs.io/api/options.html
-    fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        location: 0
-        distance: 1000
-        threshold: 0.4
-        minMatchCharLength: 0
-        keys: ["title", "permalink", "summary", "content"]
+  env: production
+  title: Vimarsh Shah
+  description: A 17 Y/o Maker & Learner
+  keywords:
+  - Blog
+  - Learner
+  - Maker
+  - Tech
+  author: Vimarsh
+  images:
+  - "/uploads/profilepic.png"
+  DateFormat: January 2, 2006
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  assets:
+    disableFingerprinting: true
+  homeInfoParams:
+    Title: Vimarsh
+    Content: A 17 Y/o Maker & Learner.
+  socialIcons:
+  - name: github
+    url: https://github.com/vimarsh244
+  - name: twitter
+    url: https://twitter.com/vimarsh244
+  - name: email
+    url: mailto:hi@vimarsh.info
+  - name: linkedin
+    url: https://www.linkedin.com/in/vimarshshah/
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: "0"
+    distance: "1000"
+    threshold: "0.4"
+    minMatchCharLength: "0"
+    keys:
+    - title
+    - permalink
+    - summary
+    - content
 outputs:
   home:
-    - HTML
-    - RSS
-    - JSON # is necessary
-
-
+  - HTML
+  - RSS
+  - JSON
 menu:
-    main:
-        - identifier: about
-          name: About Me
-          url: /about/
-          weight: 1
-        - identifier: notes
-          name: Notes
-          url: /notes/
-          weight: 2
-        - identifier: projects
-          name: Projects
-          url: /projects/
-          weight: 3
-        - identifier: search
-          name: Search
-          url: /search/
-          weight: 7
-        - identifier: archive
-          name: Archive
-          url: /archive/
-          weight: 4
-        - identifier: privacy
-          name: Privacy
-          url: /privacy/
-          weight: 5
+  main:
+  - identifier: about
+    name: About Me
+    url: "/about/"
+    weight: "1"
+  - identifier: notes
+    name: Notes
+    url: "/notes/"
+    weight: "2"
+  - identifier: projects
+    name: Projects
+    url: "/projects/"
+    weight: "3"
+  - identifier: search
+    name: Search
+    url: "/search/"
+    weight: "7"
+  - identifier: archive
+    name: Archive
+    url: "/archive/"
+    weight: "4"
+  - identifier: privacy
+    name: Privacy
+    url: "/privacy/"
+    weight: "5"
