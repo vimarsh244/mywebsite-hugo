@@ -35,7 +35,7 @@ From <[https://www.digitalocean.com/community/tutorials/how-to-install-and-confi
 Setting username and password for admin user followed by setting up trusted domains for accessing the settings.
 
     sudo nextcloud.manual-install user password
-
+    
     sudo nextcloud.occ config:system:set trusted_domains 1 --value=www.vimarsh.info
 
 ### Remove get your own Nextcloud server branding from footer
@@ -46,6 +46,6 @@ Edit file config.php
 
 Add in the list this:
 
-    'simpleSignUpLink.shown' =>
+      'simpleSignUpLink.shown' => false,
 
 From <[https://help.nextcloud.com/t/remove-link-get-your-own-free-account/41131/5](https://help.nextcloud.com/t/remove-link-get-your-own-free-account/41131/5 "https://help.nextcloud.com/t/remove-link-get-your-own-free-account/41131/5")
