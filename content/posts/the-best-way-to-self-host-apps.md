@@ -31,12 +31,10 @@ First off, you need a system to install CapRover on. For self-hosting the best t
 
 Currently, [Oracle Cloud](https://www.google.com/url?q=https%3A%2F%2Fwww.oracle.com%2Fcloud%2Ffree%2F&sa=D&sntz=1&usg=AFQjCNF4hxj3VpiRQAFE7M30kMla2wjFRg) is offering amazing Always-Free tier with 2 AMD CPU cores or 4 ARM cores and 24 Gigs of RAM, also 200 GB storage, which is more than enough for most use-cases.
 
-You can follow an [amazing guide on their website](https://www.google.com/url?q=https%3A%2F%2Fcaprover.com%2Fdocs%2Fget-started.html&sa=D&sntz=1&usg=AFQjCNFIjt3yibot8IVCIagpSJcAl-USKg) to quickly get started, or **expand the Steps** below.
+You can follow an [amazing guide on their website](https://www.google.com/url?q=https%3A%2F%2Fcaprover.com%2Fdocs%2Fget-started.html&sa=D&sntz=1&usg=AFQjCNFIjt3yibot8IVCIagpSJcAl-USKg) to quickly get started, or follow the Steps below.
 
 ## Steps
-<details>
-  <summary>Click to expand!</summary>
- 
+
 I would recommend Ubuntu as the distro of choice because most docker images function best with it. Official recomendation is for Ubuntu 18.04 but for me 20.04 has worked fine.
 
 Step 0 : SSH into the machine (VM or bare-metal and follow these instructions)
@@ -156,4 +154,4 @@ The only downside is that being a nodeJS application, its ram usage is a little 
 
 ***
 
-Wordpress ARM CapRover Template
+[Wordpress ARM CapRover Template](https://vimarsh.info/notes/wordpres-caprover-config/)
