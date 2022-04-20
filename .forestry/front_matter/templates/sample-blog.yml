@@ -27,7 +27,9 @@ fields:
   name: tags
   label: tags
 pages:
-- content/notes/notes.md
+- content/notes/quickly-and-easily-install-nextcloud.md
+- content/notes/using-easyengine-to-quickly-install-wordpress.md
+- content/notes/wordpress-caprover-configuration-for-arm-cpus.md
 - content/posts/World Needs Benevolence.md
 - content/posts/are-humans-turing-complete.md
 - content/posts/byelinguals-the-story-of-diluting-cultures.md
@@ -41,6 +43,7 @@ pages:
 - content/posts/self-expectation.md
 - content/posts/simplest-way-to-create-a-website.md
 - content/posts/society-should-make-monopolies-illegal.md
+- content/posts/the-best-way-to-self-host-apps.md
 - content/posts/the-ethics-of-ai.md
 - content/posts/the-race-to-stand-out.md
 - content/posts/tuitions.md
