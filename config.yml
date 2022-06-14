@@ -3,6 +3,8 @@ baseURL: https://mywebsite-hugo.vercel.app/
 languageCode: en-us
 title: Vimarsh
 theme: hugo-bearblog
+
+relativeURLs: true
 # description: A 17 Y/o Maker &amp; Learner
 params:
   env: production
@@ -16,7 +18,7 @@ params:
   author: Vimarsh
   images:
   - "/uploads/profilepic.png"
-  DateFormat: April 24, 2004
+  DateFormat: January 2, 2006
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -71,6 +73,10 @@ menu:
     name: About
     url: "/about/"
     weight: "1"
+  - identifier: posts
+    name: Posts
+    url: "/posts/"
+    weight: "5"
   - identifier: notes
     name: Notes
     url: "/notes/"
