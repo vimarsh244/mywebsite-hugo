@@ -2,7 +2,7 @@
 title: My Old Blog Posts
 author: Vimarsh
 date: 2020-05-01T17:11:00+00:00
-url: /blog/my-old-blog-posts/
+url: blog/my-old-blog-posts/
 
 categories:
   - Article

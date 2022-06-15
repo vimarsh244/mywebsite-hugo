@@ -2,7 +2,7 @@
 baseURL: https://mywebsite-hugo.vercel.app/
 languageCode: en-us
 title: Vimarsh
-theme: hugo-bearblog
+theme: PaperMod
 
 relativeURLs: true
 # description: A 17 Y/o Maker &amp; Learner
