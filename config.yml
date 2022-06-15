@@ -6,10 +6,14 @@ theme: PaperMod
 
 relativeURLs: true
 # description: A 17 Y/o Maker &amp; Learner
+
+enableRobotsTXT: true
+
+
 params:
   env: production
   title: Vimarsh
-  description: A 17 Y/o Maker & Learner
+  description: A Maker & Learner
   keywords:
   - Blog
   - Learner
@@ -17,7 +21,7 @@ params:
   - Tech
   author: Vimarsh
   images:
-  - "/uploads/profilepic.png"
+  - "uploads/profilepic.png"
   DateFormat: January 2, 2006
   defaultTheme: auto
   disableThemeToggle: false
@@ -35,13 +39,15 @@ params:
   assets:
     disableFingerprinting: true
   homeInfoParams:
-    Title: Vimarsh
-    Content: A 17 Y/o Maker & Learner.
+    Title: Vimarsh Shah
+    Content: A Maker & Learner
   socialIcons:
   - name: github
     url: https://github.com/vimarsh244
   - name: twitter
     url: https://twitter.com/vimarsh244
+  - name: discord
+    url: https://discord.gg/akGxf2jF4w
   - name: email
     url: mailto:hi@vimarsh.info
   - name: linkedin
