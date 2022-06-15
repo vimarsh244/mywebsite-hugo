@@ -8,7 +8,9 @@ relativeURLs: true
 # description: A 17 Y/o Maker &amp; Learner
 
 enableRobotsTXT: true
+timeZone: "Asia/Kolkota"
 
+googleAnalytics: ""
 
 params:
   env: production
@@ -68,6 +70,12 @@ params:
     - permalink
     - summary
     - content
+
+  assets:
+    # disableHLJS: true
+
+
+
 outputs:
   home:
   - HTML
@@ -79,10 +87,6 @@ menu:
     name: About
     url: "/about/"
     weight: "1"
-  - identifier: posts
-    name: Posts
-    url: "/posts/"
-    weight: "5"
   - identifier: notes
     name: Notes
     url: "/notes/"
@@ -103,3 +107,13 @@ menu:
     name: Privacy
     url: "/privacy/"
     weight: "5"
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    # noClasses: false
+    style: monokai
