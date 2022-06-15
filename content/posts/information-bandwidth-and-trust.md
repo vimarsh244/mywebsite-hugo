@@ -66,3 +66,4 @@ Sometimes the flow of information deliberately needs to be slow. There needs to 
 These were just some random thoughts I had on how we have evolved our information game and more importantly why sometimes not relying just on information is super important. *With every form of transmission, we are losing a bit of information*; so our focus should be on gaining knowledge rather than just sharing information.
 
 ![This is Truth -- showing a cylinder-- \ also true --showing a shadow of circle and rectangle--](/from-temperory-writefreely-blog/This%20is%20truth%20-%20also%20true.jpg)
+
