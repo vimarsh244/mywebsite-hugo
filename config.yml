@@ -1,5 +1,5 @@
 ---
-# baseURL: https://mywebsite-hugo.vercel.app/
+baseURL: /
 languageCode: en-us
 title: Vimarsh
 theme: PaperMod
@@ -8,7 +8,7 @@ relativeURLs: true
 # description: A 17 Y/o Maker &amp; Learner
 
 enableRobotsTXT: true
-timeZone: "Asia/Kolkota"
+# timeZone: "Asia/Kolkota"
 
 googleAnalytics: ""
 
