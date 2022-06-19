@@ -4,8 +4,9 @@ author: Vimarsh
 type: page
 date: 2021-03-02T07:31:48.000+00:00
 images:
-  - "/wp-content/uploads/2021/03/projects-center-image.png"
-description: I love applying my skills to make projects which address a particular issue in various industries.
+- "/wp-content/uploads/2021/03/projects-center-image.png"
+description: I love applying my skills to make projects which address a particular
+  issue in various industries.
 tags:
 - projects
 - iot
@@ -14,6 +15,10 @@ tags:
 
 ---
 ### This is a list of some projects I have made
+
+**CryptoStats ||** Know about how much gas you have spent on crypto transactions on any chain. Ethereum mainnet, Avalanche C Chain, Polygon, Gnosis Chain (xDAI), Arbitrum, Fantom, Binance Smart Chain are supported. [Link](https://fee.ninja/)
+
+[CryptoStats](https://www.notion.so/CryptoStats-0b8ebc7ac6d648bfb2c7c76606349c7d)
 
 **Monitoring Industries Using IOT** || The project aims to monitor the factories and getting the information on your smartphone or other devices using IOT. [Link](https://www.hackster.io/vimarsh/monitoring-industries-using-iot-ddc208)
 
