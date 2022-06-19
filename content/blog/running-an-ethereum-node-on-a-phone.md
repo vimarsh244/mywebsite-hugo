@@ -3,7 +3,7 @@ author = "Vimarsh"
 categories = []
 date = 2022-03-14T18:30:00Z
 description = ""
-images = []
+images = ["/uploads/ 2022/06/ethereum-on-a-computer-decor-image-by-kanchanara.jpg"]
 tags = []
 title = "Running an Ethereum node on a phone"
 url = "/blog/running-ethereum-node-on-your-phone"
@@ -11,7 +11,7 @@ url = "/blog/running-ethereum-node-on-your-phone"
 +++
 Whenever you are using a cryptocurrency to transact with someone, you are trusting the node to provide you with correct details and properly executing the trade. When using Metamask, by default you use the Ethereum node provided by [infura](https://infura.io/). In general they are not rogue and will not 'scam' you, but for several reasons you might want to run your own node.
 
-![Ethereum coin on computer (decor image)](https://i.vimarsh.info/Ethereum%20on%20a%20computer%20(decor%20image)%20by%20kanchanara.jpg)
+![Ethereum coin on computer (decor image)](/uploads/ 2022/06/ethereum-on-a-computer-decor-image-by-kanchanara.jpg)
 
 ## These reasons:
 
@@ -32,23 +32,27 @@ You can [simply](https://ethereum.org/en/developers/tutorials/run-light-node-get
 * Install termux from [fdroid](https://f-droid.org/en/packages/com.termux/) on your Android phone. If you are using a closed platform _iOS_, well get an open one.
 * To make your life easier, you could access your phone via SSH from your laptop and run from there. (This is mostly for my reference though, could be useful) [details](https://wiki.termux.com/wiki/Remote_Access)
 
-    # Installing openSSH
-    pkg install openssh
-    
-    # Get the username
-    whoami
-    
-    # Setup a password
-    passwd
-    
-    # Get IP address of your phone 
-    ifconfig
-    
-    # Run openSSH server
-    sshd
-    
-    # It will be running and accessible on <ip-address>:8022 by default
-
+      # Installing openSSH
+      
+      pkg install openssh
+      
+      # Get the username
+      
+      whoami
+      
+      # Setup a password
+      
+      passwd
+      
+      # Get IP address of your phone
+      
+      ifconfig
+      
+      # Run openSSH server
+      
+      sshd
+      
+      # It will be running and accessible on <ip-address>:8022 by default
 * Install geth Termux maintains a latest [packaged](https://github.com/termux/termux-packages/tree/master/packages/geth) copy of geth, which you can install simply by `pkg install geth`
 * Run the light node `geth --syncmode "light" --http` [details for CLI options](https://geth.ethereum.org/docs/interface/command-line-options)
 
