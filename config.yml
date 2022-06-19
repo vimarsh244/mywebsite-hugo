@@ -8,9 +8,9 @@ relativeURLs: true
 # description: A 17 Y/o Maker &amp; Learner
 
 enableRobotsTXT: true
-# timeZone: "Asia/Kolkota"
+timeZone: "Asia/Kolkata"
 
-googleAnalytics: ""
+googleAnalytics: "G-4ZJK8NW77F"
 
 params:
   env: production
