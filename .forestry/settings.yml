@@ -22,10 +22,8 @@ sections:
 - type: directory
   path: content/blog
   label: Blog
-  create: documents
+  create: all
   match: "**/*"
-  templates:
-  - blog-post
 - type: directory
   path: content/notes
   label: Notes
