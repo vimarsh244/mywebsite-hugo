@@ -1,10 +1,10 @@
 +++
 author = "Vimarsh"
-categories = []
+categories = ["Tutorial", "Crypto", "Tech"]
 date = 2022-03-14T18:30:00Z
 description = ""
 images = ["/uploads/ 2022/06/ethereum-on-a-computer-decor-image-by-kanchanara.jpg"]
-tags = []
+tags = ["Running a node", "Crypto", "Ethereum"]
 title = "Running an Ethereum node on a phone"
 url = "/blog/running-ethereum-node-on-your-phone"
 
