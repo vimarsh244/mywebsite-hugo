@@ -3,7 +3,7 @@ author = "Vimarsh"
 categories = ["Tutorial", "Crypto", "Tech"]
 date = 2022-03-14T18:30:00Z
 description = ""
-images = ["/uploads/ 2022/06/ethereum-on-a-computer-decor-image-by-kanchanara.jpg"]
+images = ["/uploads/2022/06/ethereum-on-a-computer-decor-image-by-kanchanara.jpg"]
 tags = ["Running a node", "Crypto", "Ethereum"]
 title = "Running an Ethereum node on a phone"
 url = "/blog/running-ethereum-node-on-your-phone"
@@ -11,7 +11,7 @@ url = "/blog/running-ethereum-node-on-your-phone"
 +++
 Whenever you are using a cryptocurrency to transact with someone, you are trusting the node to provide you with correct details and properly executing the trade. When using Metamask, by default you use the Ethereum node provided by [infura](https://infura.io/). In general they are not rogue and will not 'scam' you, but for several reasons you might want to run your own node.
 
-![Ethereum coin on computer (decor image)](/uploads/ 2022/06/ethereum-on-a-computer-decor-image-by-kanchanara.jpg)
+![Ethereum coin on computer (decor image)](/uploads/2022/06/ethereum-on-a-computer-decor-image-by-kanchanara.jpg)
 
 ## These reasons:
 
