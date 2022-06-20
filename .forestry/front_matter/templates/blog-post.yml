@@ -28,3 +28,4 @@ fields:
   label: tags
 pages:
 - content/blog/running-an-ethereum-node-on-a-phone.md
+- content/blog/running-your-own-email-server.md
