@@ -7,10 +7,10 @@ theme: PaperMod
 relativeURLs: true
 # description: A 17 Y/o Maker &amp; Learner
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 timeZone: "Asia/Kolkata"
 
-googleAnalytics: "G-4ZJK8NW77F"
+# googleAnalytics: "G-4ZJK8NW77F"
 
 params:
   env: production
