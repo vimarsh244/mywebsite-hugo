@@ -108,6 +108,4 @@ All original projects are removed on GSF website – so here is the writeup
 
 [20 second Handwash](https://www.google.com/url?q=https%3A%2F%2Fwww.notion.so%2F20-second-Handwash-4dbc5d08e269461393daf7af8074c3a6&sa=D&sntz=1&usg=AFQjCNHIJFsG-mNA7503LT1dfa2HqL4E-w)
 
-More info here: [https://onnotion.serv.vimarsh.info](https://backup.vimarsh.info/my-projects "https://backup.vimarsh.info")
-
-![](/uploads/projects-center-image.png)
+![Robotic Dinosaur](/uploads/projects-center-image.png)
