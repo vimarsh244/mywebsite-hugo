@@ -1,6 +1,6 @@
 ---
 baseURL: /
-languageCode: en-us
+languageCode: en
 title: Vimarsh
 theme: PaperMod
 
@@ -8,7 +8,7 @@ relativeURLs: true
 # description: A 17 Y/o Maker &amp; Learner
 
 enableRobotsTXT: false
-timeZone: "Asia/Kolkata"
+# timeZone: "Asia/Kolkata"
 
 # googleAnalytics: "G-4ZJK8NW77F"
 
