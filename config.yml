@@ -1,5 +1,5 @@
 ---
-baseURL: /
+baseURL: vimarsh.info
 languageCode: en
 title: Vimarsh
 theme: PaperMod
@@ -47,7 +47,7 @@ params:
   - name: github
     url: https://github.com/vimarsh244
   - name: twitter
-    url: https://twitter.com/vimarsh244
+    url: https://twitter.com/vimarshtweets
   - name: discord
     url: https://discord.gg/akGxf2jF4w
   - name: email
