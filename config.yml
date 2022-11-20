@@ -50,6 +50,8 @@ params:
     url: https://twitter.com/vimarshtweets
   - name: discord
     url: https://discord.gg/akGxf2jF4w
+  - name: whatsapp
+    url: https://wa.me/918200096029?text=You%20are%20the%20GOAT
   - name: email
     url: mailto:hi@vimarsh.info
   - name: linkedin
